@@ -1,0 +1,26 @@
+.navegacion{
+    width: 80%;
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+
+    
+}
+
+.btn-nav{
+    width: 20px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(181, 106, 252);
+    color: whitesmoke;
+    
+    &:hover{
+        transform: scale(105%);
+        opacity: 0.8;
+
+    }
+}

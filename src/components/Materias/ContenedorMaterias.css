@@ -1,0 +1,20 @@
+.contenedor-materias{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(150px, 1fr));
+    gap: 25px;
+    text-align: center;  
+}
+
+.tarjeta{
+    width: 150px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4px  8px;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: black;
+    text-decoration: none;
+}

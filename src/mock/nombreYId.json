@@ -1,0 +1,58 @@
+[
+    {
+        "id": "Mat1",
+        "nombre": "Matemática 1"
+    },
+    {
+        "id": "Inpr",
+        "nombre": "Introducción a la programación"
+    },
+    {
+        "id": "Ttu",
+        "nombre": "Taller de Trabajo Universitario"
+    },
+    {
+        "id": "Orga",
+        "nombre": "Organizacion de Computadoras"
+    },
+    {
+        "id": "Estrd",
+        "nombre": "Estructura de Datos"
+    },
+    {
+        "id": "obj1",
+        "nombre": "Programacion orientado a Objetos 1"
+    },
+    {
+        "id": "red",
+        "nombre": "Redes de Computadoras"
+    },
+    {
+        "id": "bsd",
+        "nombre": "Base de Datos"
+    },
+    {
+        "id": "mat2",
+        "nombre": "Matematica 2"
+    },
+    {
+        "id": "so",
+        "nombre": "Sistemas Operativos"
+    },
+    {
+        "id": "progconcu",
+        "nombre": "Programacion Concurrente"
+    },
+    {
+        "id": "progfunc",
+        "nombre": "Programacion Funcional"
+    },
+    {
+        "id": "log",
+        "nombre": "Logica y Programacion"
+    },
+    {
+        "id": "pobj2",
+        "nombre": "Programacion Orientada a Objetos 2"
+    }
+]

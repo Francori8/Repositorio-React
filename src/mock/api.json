@@ -1,0 +1,4435 @@
+[
+    {
+        "id": "Mat1",
+        "nombre": "Matemática 1",
+        "cargaHoraria": 8,
+        "programa": "https://docs.google.com/viewer?srcid=1uT1fhQkMv1vXHHdp0v7QHHiUzOy0mOPz&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+        "links": null,
+        "observacion": "La materia es complicada, la base de EPyL es bastante util al principio, es mucha abstraccion, tu decide si eso es bueno o malo, aunque casi todos los temas son las bases de materias posteriores. La practica es la parte mas fundamental, ademas que hay ejercicios que no sabras si los estas justificando bien o mal. Las clases son teoricas/practicas, lo mejor para este tipo de materias, ademas del apoyo de los videos y los pdfs son bastantes entendibles, aunque las practicas ya es otro tema, aun asi si la sigues quizas no sea tan dificil (2022 mi caso)",
+        "videos": [
+            {
+                "indice": 1,
+                "src": "https://www.youtube.com/embed/94WQQE-3Fu8",
+                "fecha": "23/08/2022",
+                "titulo": "Lógica  ",
+                "tema": "Logica, Formulas Proposicionales, Leyes Logicas"
+            },
+            {
+                "indice": 2,
+                "src": "https://www.youtube.com/embed/bl_8qx4a3J8",
+                "fecha": "30/08/2022",
+                "titulo": "Logica Razonamiento 1 ",
+                "tema": "Razonamientos, Explicacion, Formalizacion"
+            },
+            {
+                "indice": 3,
+                "src": "https://www.youtube.com/embed/GoLXyZ4KaZs",
+                "fecha": "30/08/2022",
+                "titulo": "Logica Razonamiento 2 ",
+                "tema": "Razonamientos, Metodo Directo"
+            },
+            {
+                "indice": 4,
+                "src": "https://www.youtube.com/embed/9znqg-g4Q0E",
+                "fecha": "30/08/3022",
+                "titulo": "Logica Razonamientos 3 ",
+                "tema": "Razonamientos, Metodo por el Absurdo"
+            },
+            {
+                "indice": 5,
+                "src": "https://www.youtube.com/embed/7amY_yBIw8g",
+                "fecha": "30/08/3022",
+                "titulo": "Logica Razonamientos 4 ",
+                "tema": "Razonamientos, Metodo por indirecto"
+            },
+            {
+                "indice": 6,
+                "src": "https://www.youtube.com/embed/5q2BHOp4qfM",
+                "fecha": "02/09/2022",
+                "titulo": "Logica Formulas Proposicionales 1",
+                "tema": "Formula Proposicional, universal"
+            },
+            {
+                "indice": 7,
+                "src": "https://www.youtube.com/embed/eYrcrzDSccY",
+                "fecha": "02/09/2022",
+                "titulo": "Logica Formulas Proposicionales 2",
+                "tema": "Cuantificadores: Todos, Algunos"
+            },
+            {
+                "indice": 8,
+                "src": "https://www.youtube.com/embed/ismtawrNls0",
+                "fecha": "02/09/2022",
+                "titulo": "Logica Formulas Proposicionales 3",
+                "tema": "Negacion de cuantificadores"
+            },
+            {
+                "indice": 9,
+                "src": "https://www.youtube.com/embed/wxrZLx-vNuE",
+                "fecha": "02/09/2022",
+                "titulo": "Logica Formula Proposicional 4",
+                "tema": "Razonamientos con Cuantificadores"
+            },
+            {
+                "indice": 10,
+                "src": "https://www.youtube.com/embed/BPzGGxHxUJw",
+                "fecha": "09/09/2022",
+                "titulo": "Teoria de Conjuntos 1",
+                "tema": "Conjuntos, Inclucion, Igualdad"
+            },
+            {
+                "indice": 11,
+                "src": "https://www.youtube.com/embed/S_xbThZOavE",
+                "fecha": "09/09/2022",
+                "titulo": "Teoria de Conjuntos2",
+                "tema": "Conjuntos de Partes"
+            },
+            {
+                "indice": 12,
+                "src": "https://www.youtube.com/embed/nnDthElkkZw",
+                "fecha": "09/09/2022",
+                "titulo": "Teoria de Conjuntos 3",
+                "tema": "Complemento de un conjunto"
+            },
+            {
+                "indice": 13,
+                "src": "https://www.youtube.com/embed/lAZPOA7H-aU",
+                "fecha": "13/09/2022",
+                "titulo": "Teoria de Conjuntos 4",
+                "tema": "Union de Conjuntos"
+            },
+            {
+                "indice": 14,
+                "src": "https://www.youtube.com/embed/-1KVvxYHbXw",
+                "fecha": "13/09/2022",
+                "titulo": "Teoria de Conjuntos 5",
+                "tema": "Interseccion de Conjuntos"
+            },
+            {
+                "indice": 15,
+                "src": "https://www.youtube.com/embed/7PO_R_IzRAY",
+                "fecha": "13/09/2022",
+                "titulo": "Teoria de Conjuntos 6",
+                "tema": "Resolucion de Ejercicios de Conjuntos"
+            },
+            {
+                "indice": 16,
+                "src": "https://www.youtube.com/embed/Sf5_7xFPnEc",
+                "fecha": "16/09/2022",
+                "titulo": "Teoria de Conjuntos 7",
+                "tema": "Particion de Conjuntos"
+            },
+            {
+                "indice": 17,
+                "src": "https://www.youtube.com/embed/OpzU-sLFCow",
+                "fecha": "16/09/2022",
+                "titulo": "Teoria de Conjuntos 8",
+                "tema": "Diferencia de Conjuntos"
+            },
+            {
+                "indice": 18,
+                "src": "https://www.youtube.com/embed/bBP7lbs9jSA",
+                "fecha": "16/09/2022",
+                "titulo": "Teoria de Conjuntos 9",
+                "tema": "Diferencia Simentrica de Conjuntos"
+            },
+            {
+                "indice": 19,
+                "src": "https://www.youtube.com/embed/ixZCQU24sC0",
+                "fecha": "16/09/2022",
+                "titulo": "Teoria de Conjuntos 10",
+                "tema": "Producto Cartesiano entre conjuntos"
+            },
+            {
+                "indice": 20,
+                "src": "https://www.youtube.com/embed/zvAaOhuXIuI",
+                "fecha": "23/09/2022",
+                "titulo": "Relaciones 1",
+                "tema": "Relaciones Binarias"
+            },
+            {
+                "indice": 21,
+                "src": "https://www.youtube.com/embed/vmXgYNUaxqA",
+                "fecha": "23/09/2022",
+                "titulo": "Relaciones 2",
+                "tema": "Relacion Inversion"
+            },
+            {
+                "indice": 22,
+                "src": "https://www.youtube.com/embed/tSw7aJ-3hS4",
+                "fecha": "23/09/2022",
+                "titulo": "Relaciones 3",
+                "tema": "Composicion de Relacion"
+            },
+            {
+                "indice": 23,
+                "src": "https://www.youtube.com/embed/kqJhginNcqw",
+                "fecha": "27/09/2022",
+                "titulo": "Relaciones 4",
+                "tema": "Relaciones definidas en un conjunto, Relaciones de Equivalencia"
+            },
+            {
+                "indice": 24,
+                "src": "https://www.youtube.com/embed/7zd2tHxZuSw",
+                "fecha": "27/09/2022",
+                "titulo": "Relaciones 5",
+                "tema": "Relaciones de Orden"
+            },
+            {
+                "indice": 25,
+                "src": "https://www.youtube.com/embed/HbUMm7k4hDY",
+                "fecha": "14/10/2022",
+                "titulo": "Funciones 1",
+                "tema": "Clasificacion de las funciones y varias de ellas"
+            },
+            {
+                "indice": 26,
+                "src": "https://www.youtube.com/embed/X6HDs6MAocc",
+                "fecha": "18/10/2022",
+                "titulo": "Funciones 2",
+                "tema": "Igualdad de Funciones"
+            },
+            {
+                "indice": 27,
+                "src": "https://www.youtube.com/embed/1CypdaruT5s",
+                "fecha": "21/10/2022",
+                "titulo": "Funciones 3",
+                "tema": "Composicion de Funciones"
+            },
+            {
+                "indice": 28,
+                "src": "https://www.youtube.com/embed/u67EEWJIqnM",
+                "fecha": "21/10/2022",
+                "titulo": "Funciones 4",
+                "tema": "Funcion Inversa"
+            },
+            {
+                "indice": 29,
+                "src": "https://www.youtube.com/embed/VV1wPpi43HI",
+                "fecha": "1/11/2022",
+                "titulo": "Induccion Matematica",
+                "tema": "Principio de induccion matematica, Suamtoria, Factorial"
+            },
+            {
+                "indice": 30,
+                "src": "https://www.youtube.com/embed/gm5VTLz3S1c",
+                "fecha": "11/11/2022 ",
+                "titulo": "Analisis Combinatorio 1",
+                "tema": "Concepto de analisis combinatorio y Variaciones"
+            },
+            {
+                "indice": 31,
+                "src": "https://www.youtube.com/embed/m4pIJfL6ScM",
+                "fecha": "11/11/2022",
+                "titulo": "Analisis Combinatorio 2",
+                "tema": "Permutaciones"
+            },
+            {
+                "indice": 32,
+                "src": "https://www.youtube.com/embed/4TLs-UA9xwY",
+                "fecha": "11/11/2022",
+                "titulo": "Analisis Combinatorio 3",
+                "tema": "Combinaciones"
+            },
+            {
+                "indice": 33,
+                "src": "https://www.youtube.com/embed/xnrEmtnrAJM",
+                "fecha": "11/11/2022",
+                "titulo": "Analisis Combinatorio 4",
+                "tema": "Variaciones con repeticiones"
+            },
+            {
+                "indice": 34,
+                "src": "https://www.youtube.com/embed/xoNkogGzbjI",
+                "fecha": "11/11/2022",
+                "titulo": "Analisis Combinatorio 5",
+                "tema": "Binomio de Newton"
+            }
+        ],
+        "apuntesteoricos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=11FKyBjjHMXqiwRs5N_zYokG_3fizW4-p&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "23/08/2022",
+                "titulo": "Logica 1",
+                "tema": "Logica, Formulas Proposicionales, Leyes Logicas",
+                "tipo": "Teorico",
+                "correspondencia": 1,
+                "tp": 1,
+                "ejercicios": "1-19"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1nPrMsmmqCMc2N2qItmjnnD4PgW49k5-h&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "30/08/2022",
+                "titulo": "Logica 2",
+                "tema": "Razonamientos y sus metodos",
+                "tipo": "Teorico",
+                "correspondencia": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "tp": 1,
+                "ejercicios": "19-22"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1xmkAVuMJ8-uoqvmMsXOZd1s7p7ra_Zmw&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "02/09/2022",
+                "titulo": "Logica 3",
+                "tema": "Formulas Proposicionales y cuantificadores",
+                "tipo": "Teorico",
+                "correspondencia": [
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "tp": 1,
+                "ejercicios": "23-Completo"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1GSnsPrzKEkvVsIkCa_u0WnXS0rBCIeCX&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "09/09/2022",
+                "titulo": "Conjuntos 1",
+                "tema": "Conjuntos, Inlcucion de conjuntos, igualdad entre ellos, propiedades",
+                "tipo": "Teorico",
+                "correspondencia": [
+                    10,
+                    11,
+                    12
+                ],
+                "tp": 2,
+                "ejercicios": "1, 4(a) y 9(a,b,c)"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=16pedoq2CFpKq-wB5GpDLT-pBFWBoG5bC&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "13/09/2022",
+                "titulo": "Conjuntos 2",
+                "tema": "Union de Conjuntos",
+                "tipo": "Teorico",
+                "correspondencia": [
+                    13,
+                    15
+                ],
+                "tp": 2,
+                "ejercicios": "4 (b, d), "
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=1P0SwldVolZklOVC-LWgTjHJRFUwPrRyk&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "13/09/2022",
+                "titulo": "Conjuntos 3",
+                "tema": "Interseccion de Conjuntos",
+                "tipo": "Teorico",
+                "correspondencia": [
+                    14,
+                    15
+                ],
+                "tp": 2,
+                "ejercicios": "4 (b,d)"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=1dx0josMbQhPW1_ICT88QNwi2yM_zSMnu&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "16/09/2022",
+                "titulo": "Connjuntos 4",
+                "tema": "Particion de Conjuntos",
+                "tipo": "Teorico",
+                "correspondencia": 16,
+                "tp": 2,
+                "ejercicios": "2 (a, b, c), 3 (a, b, c), 4 (c, d), 5 (d), 6, (a, b, c), 7 (a, b, c), 8 (d, e, f) y 10 (b, d)"
+            },
+            {
+                "indice": 8,
+                "src": "https://docs.google.com/viewer?srcid=1ABjxKtjghVV0IfBNRU4ToUiY4zk-X7Ha&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "16/09/2022",
+                "titulo": "Conjuntos 5",
+                "tema": "Diferencia de Conjuntos",
+                "tipo": "Teorico",
+                "correspondencia": 17,
+                "tp": 2,
+                "ejercicios": "2 (a, b, c), 3 (a, b, c), 4 (c, d), 5 (d), 6, (a, b, c), 7 (a, b, c), 8 (d, e, f) y 10 (b, d)"
+            },
+            {
+                "indice": 9,
+                "src": "https://docs.google.com/viewer?srcid=1GOVJEAOItb_0yVeqj6ST0wQMsMM2XLti&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "16/09/2022",
+                "titulo": "Conjuntos 6",
+                "tema": "Diferencia Simetrica",
+                "tipo": "Teorico",
+                "correspondencia": 18,
+                "tp": 2,
+                "ejercicios": "2 (f, g), 5 (e) y 11 "
+            },
+            {
+                "indice": 10,
+                "src": "https://docs.google.com/viewer?srcid=1MEOkMDL-dPVfceVctZaNlQMwhQN31jTq&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "16/09/2022",
+                "titulo": "Conjuntos 7",
+                "tema": "Producto Cartesiano",
+                "tipo": "Teorico",
+                "correspondencia": 19,
+                "tp": 2,
+                "ejercicios": "2 (f, g), 5 (e) y 11 "
+            },
+            {
+                "indice": 11,
+                "src": "https://docs.google.com/viewer?srcid=1SccCLm5Nzy9UW6qzMrxN4RheA2cvD8Sq&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "23/09/2022",
+                "titulo": "Relaciones 1",
+                "tema": "Relaciones Binarias, dominio e imagen",
+                "tipo": "Teorico",
+                "correspondencia": [
+                    20,
+                    21
+                ],
+                "tp": 3,
+                "ejercicios": [
+                    1,
+                    2,
+                    3
+                ]
+            },
+            {
+                "indice": 12,
+                "src": "https://docs.google.com/viewer?srcid=1inWCCMPzolu1owndTkfpBcN3UoafsuD4&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "23/09/2022",
+                "titulo": "Relaciones 2",
+                "tema": "Composicion de Relaciones",
+                "tipo": "Teorico",
+                "correspondencia": 22,
+                "tp": 3,
+                "ejercicios": [
+                    1,
+                    2,
+                    3
+                ]
+            },
+            {
+                "indice": 13,
+                "src": "https://docs.google.com/viewer?srcid=13gT6RjIXsslsSnZPI_JZ1dD_d32dVidx&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "27/09/2022",
+                "titulo": "Relaciones 3",
+                "tema": "Relacione entre un conjunto",
+                "tipo": "Teorico",
+                "correspondencia": 23,
+                "tp": 3,
+                "ejercicios": "1,2,3,5"
+            },
+            {
+                "indice": 14,
+                "src": "https://docs.google.com/viewer?srcid=1drl0zxMPHq6tuu_ntmatO08FwXYzV52I&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "30/09/2022",
+                "titulo": "Relaciones 4",
+                "tema": "Relaciones de equivalencias",
+                "tipo": "Teorico",
+                "correspondencia": 23,
+                "tp": 3,
+                "ejercicios": ""
+            },
+            {
+                "indice": 15,
+                "src": "https://docs.google.com/viewer?srcid=14o6ZjCH0TWLGhKTSYKlPvWxToLivV3q3&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "30/09/2022",
+                "titulo": "Relaciones 5",
+                "tema": "Relaciones de Orden",
+                "tipo": "Teorico",
+                "correspondencia": 24,
+                "tp": 3,
+                "ejercicios": ""
+            },
+            {
+                "indice": 16,
+                "src": "https://docs.google.com/viewer?srcid=1IuMHVyO-GHnVMgyRs1rKo2yMP56Dvc9G&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "14/10/2022",
+                "titulo": "Funciones 1 a ",
+                "tema": "Funciones, Grafica, Dominio",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 4,
+                "ejercicios": "1"
+            },
+            {
+                "indice": 17,
+                "src": "https://docs.google.com/viewer?srcid=1Ck3d3cvsSCrhA0ItPgy1is6Jagttpkht&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "14/10/2022",
+                "titulo": "Funciones 1 b",
+                "tema": "Biyectiva, Intectiva y Sobreyectiva",
+                "tipo": "Teorico",
+                "correspondencia": 25,
+                "tp": 4,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 18,
+                "src": "https://docs.google.com/viewer?srcid=1WZNSFBxw_CsVrlUu87anmiv3GcPxrPYJ&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "18/10/2022",
+                "titulo": "Funciones 2",
+                "tema": "Igualdad de funciones, tipos de funciones",
+                "tipo": "Teorico",
+                "correspondencia": 26,
+                "tp": 5,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 19,
+                "src": "https://docs.google.com/viewer?srcid=1LfPeY_zuMNa_wTCcUsM5qiTuy09rRraU&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "21/10/2022",
+                "titulo": "Funciones 3",
+                "tema": "Composicion de Funciones",
+                "tipo": "Teorico",
+                "correspondencia": 27,
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 20,
+                "src": "https://docs.google.com/viewer?srcid=1sd_J_gPSZ8Xn3_yH7gXq2n7LqRihvdIJ&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "21/10/2022",
+                "titulo": "Funicones 4",
+                "tema": "Funcion Inversa",
+                "tipo": "Teorico",
+                "correspondencia": 28,
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 21,
+                "src": "https://docs.google.com/viewer?srcid=1oonCS17_AgHduA453DBb8avra_9DDe7F&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "01/11/2022",
+                "titulo": "Induccion Matematica",
+                "tema": "Induccion Matematica",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": null,
+                "ejercicios": null
+            },
+            {
+                "indice": 22,
+                "src": "https://docs.google.com/viewer?srcid=16ZXZzcv2Gem90uv57m5kt6fjH5w6_QiT&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "11/11/2022",
+                "titulo": "Combinatoria 1",
+                "tema": "Conbinatoria",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": null,
+                "ejercicios": null
+            }
+        ],
+        "apuntespracticos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=12NetAvDgn7barmTUuDTFfJkD5M8Ifz0R/&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "23/08/2022",
+                "titulo": "Logica TP",
+                "tema": "Logica /Razonamientos / Formulas Proposicionales",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1s5rky_xxbQ3SBTHv30Gg-IUU5cIH53Nf&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "09/09/2022",
+                "titulo": "Conjuntos TP",
+                "tema": "Teoria de conjuntos / Union / Interseccion",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1EcjjSxA4_-3S0RSBoNkwCfv9SuLR1pyS&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "23/09/2022",
+                "titulo": "Relaciones",
+                "tema": "Relaciones entre conjuntos, binaria",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=18JhaU9aENk9copCSBgA3TcuKkT06YzgH&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "18/10/2022",
+                "titulo": "Funciones TP",
+                "tema": "Funciones, composicion, inversa",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1L_z2Xrgrdpj1tZoZ4knWpxU17sD9-HGT&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "18/10/2022",
+                "titulo": "Funciones TP 2",
+                "tema": "Ejercictacion funciones",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=1xAQgjCS5flpcCZcX_orCwK2WEHxncm0c&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "01/11/2022",
+                "titulo": "Induccion Matematica",
+                "tema": "Induccion Matematica",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=1tM2vmxB2zLc9-2EhoWRplbvIxhbKRnAz&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "11/11/2022",
+                "titulo": "Combinatoria",
+                "tema": "Combinatoria",
+                "tipo": "Practico"
+            }
+        ],
+        "juego": [
+            {
+                "id": "jm1",
+                "indice": "Unidad 1: Logica",
+                "preguntas": [
+                    {
+                        "pregunta": "¿Cual de los siguientes es un metodo de resolucion de razonamientos?",
+                        "respuesta": "Todos los anteriores",
+                        "distractores": [
+                            "Metodo Directo",
+                            "Metodo Indirecto",
+                            "Metodo por el absurdo"
+                        ],
+                        "explicacion": "El metodo directo: con todas las premisas se consideran verdaderas y se intenta llegar a la conclucion verdadera"
+                    },
+                    {
+                        "pregunta": "¿Cual de las siguientes no es un operador logico en logica proposicional?",
+                        "respuesta": "U (union)",
+                        "distractores": [
+                            "- (negacion)",
+                            "v (disyuncion)",
+                            "-->(implicacion)",
+                            "<--> (bicondiconal)"
+                        ],
+                        "explicacion": "dvsv"
+                    },
+                    {
+                        "pregunta": "p --> q ¿Cual es el contrareciproco?",
+                        "respuesta": "-q --> (-p)",
+                        "distractores": [
+                            "q --> p",
+                            "-p --> q",
+                            "p --> q",
+                            "-p v q"
+                        ],
+                        "explicacion": ""
+                    },
+                    {
+                        "pregunta": "¿Cual de las siguientes no cumple la propiedad de conmutatividad?",
+                        "respuesta": "Implicacion",
+                        "distractores": [
+                            "Conjuncion",
+                            "Disyuncion",
+                            "Bicondicional",
+                            "Multiplicacion"
+                        ],
+                        "explicacion": ""
+                    },
+                    {
+                        "pregunta": "p v (q ∧ r) = ¿?",
+                        "respuesta": "(p v q) ∧ (p v r)",
+                        "distractores": [
+                            "(p v q) ∧ r",
+                            "(q v r) ∧ p",
+                            "(p ∧ q) v (p ∧ r)"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿Cual de las siguientes opciones define la ley de Morgan?",
+                        "respuesta": " - (p v q) = -p ∧ -q",
+                        "distractores": [
+                            "p v (q ∧ r) = (p v q) ∧ (p v r)",
+                            "p v (q v r) = (p v q) v r",
+                            " - (-p) = p",
+                            "- (p ∧ q) = -p ∧ -q"
+                        ]
+                    },
+                    {
+                        "pregunta": "x es inteligente, es una proposicion",
+                        "respuesta": "Falso",
+                        "distractores": [
+                            "Verdadero"
+                        ]
+                    },
+                    {
+                        "pregunta": "x es inteligente, es una formula proposicional",
+                        "respuesta": "Falso",
+                        "distractores": [
+                            "Verdadero"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿Cual de los siguientes es una formula proposicional?",
+                        "respuesta": " x + 2 = 5",
+                        "distractores": [
+                            "2 + 2 = 4",
+                            "China es el pais mas chico que existe",
+                            "El cielo es violeta"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿Que significan que dos expresiones sean logicamente equivalentes?",
+                        "respuesta": "Sus tablas de verdad son iguales",
+                        "distractores": [
+                            "Sus tablas de verdad son contrarias"
+                        ],
+                        "explicacion": ""
+                    },
+                    {
+                        "pregunta": "¿Que es el conjunto Universal?",
+                        "respuesta": "El conjunto donde al reemplazar cada elemento en la funcion proposicional se obtienen proposiciones",
+                        "distractores": [
+                            "El conjunto de elemento que de verdadero la formula proposicional",
+                            "El conjunto de elemento que de falso la formula proposicional"
+                        ],
+                        "explicacion": ""
+                    },
+                    {
+                        "pregunta": "Partimos de las premisas Verdaderas y la Conclucion falsa y se intenta llegar a una contradiccion ¿A que tipo de resolucion de razonamiento hace referencia?",
+                        "respuesta": "Metodo por el absurdo",
+                        "distractores": [
+                            "Metodo Directo",
+                            "Metodo Indirecto",
+                            "Metodo del bufon"
+                        ],
+                        "explicacion": ""
+                    },
+                    {
+                        "pregunta": "¿Cual de las siguientes es una Tautologia?",
+                        "respuesta": "Todas son Tautologias",
+                        "distractores": [
+                            "Ninguna es tautologia",
+                            "p --> p",
+                            "-p v p",
+                            "-(-p) <--> p",
+                            "(p -> q) <--> (-p v q)"
+                        ],
+                        "explicacion": ""
+                    },
+                    {
+                        "pregunta": "¿Cual es la propiedad de la involucion?",
+                        "respuesta": "- (-p)",
+                        "distractores": [
+                            "p v p",
+                            "p v (-p)",
+                            " p ∧ p ",
+                            "p ∧ (-p)"
+                        ]
+                    },
+                    {
+                        "pregunta": "Tautologia, Contradiccion, Contingencias son clasificaciones de ....",
+                        "respuesta": "Proposiciones Compuestas",
+                        "distractores": [
+                            "Proposiciones Simples",
+                            "Formula Proposicional"
+                        ],
+                        "explicacion": ""
+                    },
+                    {
+                        "pregunta": "¿Que nos permiten hacer las leyes logicas?",
+                        "respuesta": "Simplificar proposiciones o probar equivalencias logicas",
+                        "distractores": [
+                            "Dormir tranquilos en la noche",
+                            "Hacer tablas de verdad",
+                            "Hacer formulas proposicionales o proposiciones correctamente"
+                        ],
+                        "explicacion": ""
+                    },
+                    {
+                        "pregunta": "Se supone la conclucion falsa y se trata de demostrar que la conjuncion de las premisas son falsas",
+                        "respuesta": "Metodo Indirecto",
+                        "distractores": [
+                            "Metodo por el absurdo",
+                            "Metodo directo",
+                            "Metodo del bufon"
+                        ],
+                        "explicacion": ""
+                    },
+                    {
+                        "pregunta": "¿Cual/es son maneras de obtener una proposicion a partir de una formula proposicional?",
+                        "respuesta": "Las dos",
+                        "distractores": [
+                            "reemplazar la x por un elemento a de su Universal",
+                            "Cuantificando las formulas proposicionales"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿Que es el conjunto de Verdad de una formula proposicional?",
+                        "respuesta": "Conjunto formado por los elementos del Universal, que al reemplazar a la x, da una proposicion verdadera",
+                        "distractores": [
+                            "Todo el conjunto Universal",
+                            "Conjunto formado por todos los elementos del Universal",
+                            "Conjutno formado por todos los elementos del Universal que permiten convertir la formula proposicional en una proposicion"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿Que representa el simbolo U?",
+                        "respuesta": "Conjunto Universal",
+                        "distractores": [
+                            "Conjunto de Verdad",
+                            "Para Todos",
+                            "Algunos",
+                            "NInguno",
+                            "Formula Porposicional",
+                            "Proposicion"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿Cuales de los siguientes no es un cuantificador?",
+                        "respuesta": "a veces",
+                        "distractores": [
+                            "Existe alguno",
+                            "Para Todos"
+                        ]
+                    },
+                    {
+                        "pregunta": "Indicar si la siguiente proposicion es V o F: ∃n ∈N / n<5",
+                        "respuesta": "Verdadero",
+                        "distractores": [
+                            "Falso"
+                        ]
+                    },
+                    {
+                        "pregunta": "Indicar si la siguiente proposicion es V o F: ∀n ∈N /(n >= 5 ∧ n <= 8",
+                        "respuesta": "Falso",
+                        "distractores": [
+                            "Verdadero"
+                        ]
+                    },
+                    {
+                        "pregunta": "Sabiendo que el U = {1,2,3,4,5,6,7,8,9}, q(x): x es multiplo de 2 menor que 15  ¿Cual es el conjunto de verdad?",
+                        "respuesta": "{2,4,6,8}",
+                        "distractores": [
+                            "Conjunto Vacio",
+                            "Conjunto Universal",
+                            "{1,2,3,4,5,6,7,8}",
+                            "{1,2,3,4,5,6}"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿De que otra forma puede ser representada esta negacion de un cuantificador para todos? - (∀x : t(x))",
+                        "respuesta": "∃x : -t(x)",
+                        "distractores": [
+                            "∃x : t(x)",
+                            "∀x : - t(x)",
+                            "Solo existe esa forma de negarlo"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿Este razonamiento es valido? P1: ∀x ∶ (e(x) → c(x))  P2: e(Paola) C: c(Paola)",
+                        "respuesta": "Razonamiento Valido",
+                        "distractores": [
+                            "Razonamiento Invalido"
+                        ]
+                    },
+                    {
+                        "pregunta": "Si sabemos que una proposicion con un cuantificador Para Todos (∀), es verdadero,¿Que se puede afirmar del existencial de ese mismo conjunto?",
+                        "respuesta": "Que para el existencial de alguno concreto tambien es verdadero",
+                        "distractores": [
+                            "Que el existencial siempre es falso",
+                            "Que el existencial de alguno concreto puede ser verdadero o falso",
+                            "No se puede afirmar nada"
+                        ]
+                    },
+                    {
+                        "pregunta": "Teniendo los conjuntos de verdad de p(x) y q(x) que son: {1,2,3} y {2,4,6} y el U = {1,2,3,4,6} ¿Cual de las siguientes proposiciones es falsa?",
+                        "respuesta": "∀x: p(x) ∧ q(x)",
+                        "distractores": [
+                            "∀x: p(x) v q(x)",
+                            "∃x: p(x) ∧ q(x)",
+                            "∃x: p(x) <--> q(x)"
+                        ]
+                    },
+                    {
+                        "pregunta": "Dado el conjunto A={1,2,3,4,9} determine el valor de verdad de ∃x ∈ A ∀y ∈ A / x*y = y",
+                        "respuesta": "Verdadero",
+                        "distractores": [
+                            "Falso"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "jm2",
+                "indice": "Unidad 2: Teoria de conjuntos",
+                "preguntas": [
+                    {
+                        "pregunta": "¿Como se designan los conjuntos usualmente?",
+                        "respuesta": "Letras Mayusculas",
+                        "distractores": [
+                            "Letras Minusculas",
+                            "Numeros Positivos",
+                            "Numeros Negativo",
+                            "Numero Binario",
+                            "Numero Romano",
+                            "Simbolos Griegos"
+                        ],
+                        "explicacion": "Los conjutnos son designados comunmente por letras Mayusculas, como los conjuntos de los numeros naturales N, enteros Z, racionales Q, etc "
+                    },
+                    {
+                        "pregunta": "x ∈ A ¿Que quiere decir?",
+                        "respuesta": "el elemento x pertenece al conjunto A",
+                        "distractores": [
+                            "el elemento x no pertenece al conjunto A",
+                            "el elemento x esta incluido en el conjunto A",
+                            "el elemento x no esta incluido en el conjunto A"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿Cuantos elementos tiene el conjunto vacio ? simbolizado: ∅ o {}.",
+                        "respuesta": "0",
+                        "distractores": [
+                            "1",
+                            "-1"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿A que se le llama el cardinal de un conjunto?",
+                        "respuesta": "Cantidad de elementos del conjunto",
+                        "distractores": [
+                            "Cantidad de productos cartesianos posibles en el conjunto",
+                            "El conjunto de partes",
+                            "la particion del conjunto"
+                        ]
+                    },
+                    {
+                        "pregunta": "Si un conjunto tiene infinitos elementos ¿Como puede ser definido?",
+                        "respuesta": "Por Comprension",
+                        "distractores": [
+                            "Por extension",
+                            "Por cualquiera de los dos"
+                        ]
+                    },
+                    {
+                        "pregunta": "Sean A y B dos conjuntos.si todo elemento de A pertence a B entonces el conjunto A está incluido en B. Se simboliza A ⊆ B. ¿Cual es la definicion de la inclucion?",
+                        "respuesta": "A ⊆ B ⟺ ∀x ∶ x ∈ A ⟹ x ∈ B",
+                        "distractores": [
+                            "A ⊆ B ⟺ ∀x ∶ x ∈ A ⟹ x ∉ B",
+                            "A ⊆ B ⟺ ∀x ∶ x ∉ A ⟹ x ∉ B"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿Cual es la diferencia entre ⊆ y ⊂?",
+                        "respuesta": "El primero admite que sean iguales y el segundo no",
+                        "distractores": [
+                            "El segundo admite que sean iguales y el primero no"
+                        ]
+                    },
+                    {
+                        "pregunta": "El conjunto Vacio este inlcuido en cualquier otro conjunto",
+                        "respuesta": "Verdadero",
+                        "distractores": [
+                            "Falso"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿Que significa que dos conjuntos sean iguales?",
+                        "respuesta": "Que tienen los mismo elementos y la msima cantidad",
+                        "distractores": [
+                            "la unica condicion es que tengan el mismo cardinal",
+                            "tienen elementos diferentes"
+                        ]
+                    },
+                    {
+                        "pregunta": "A = B si y sólo si ∀x ∶ (x ∈ A ↔ x ∈ B). Ademas de este ¿Que otra es la definicion de Igualdad?",
+                        "respuesta": "A = B ⟺ A ⊆ B ∧ B ⊆ A",
+                        "distractores": [
+                            "A = B ⟺ A ⊆ B ",
+                            "A = B ⟺  B ⊆ A",
+                            "A = B ⟺ A ⊆ B v B ⊆ A"
+                        ]
+                    },
+                    {
+                        "pregunta": "A̅ = {x ∈ U / x ∉ A} = {x/ x ∉ A} ¿Que quiere decir esto?",
+                        "respuesta": "El complemento de A (A̅), es el conjunto de los elementos de U que no pertenecen a A",
+                        "distractores": [
+                            "El complemento de A (A̅), es el conjunto de los elementos de A que no pertenecen a U"
+                        ]
+                    },
+                    {
+                        "pregunta": "x ∈ A̅ ⟹ ????",
+                        "respuesta": "x ∉ A",
+                        "distractores": [
+                            "x ∈ A"
+                        ]
+                    },
+                    {
+                        "pregunta": "{x ∈ U / x ∈ A ∨ x ∈ B} = {x/ x ∈ A ∨ x ∈ B} ¿A que definicion hace referencia?",
+                        "respuesta": "Union",
+                        "distractores": [
+                            "Interseccion",
+                            "Igualdad",
+                            "Diferencia Simetrica",
+                            "Diferencia entre conjuntos",
+                            "Complemento"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿Cual de las siguientes es una propiedad de la Union?",
+                        "respuesta": "Todas",
+                        "distractores": [
+                            "Idempotencia A U A = A",
+                            "Asociativa (A ∪ B) ∪ C = A ∪ (B ∪ C)",
+                            "Conmutatividad: A ∪ B = B ∪ A",
+                            "Elemento neutro de la unión: A ∪ ∅ = ∅ ∪ A = A",
+                            "Solo dos de las mencionadas"
+                        ]
+                    },
+                    {
+                        "pregunta": "x ∈ A ?? B ⟺ x ∈ A ∧ x ∈ B  ¿Que simbolo va a donde estan los signos de pregunta?",
+                        "respuesta": "∩ (interseccion)",
+                        "distractores": [
+                            "U (union)",
+                            "- (diferencia)",
+                            "Δ (diferencia simetrica)"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿Cual de las siguientes es una propiedad de la Interseccion?",
+                        "respuesta": "Todas",
+                        "distractores": [
+                            "Idempotencia A ∩ A = A",
+                            "Asociativa (A ∩ B) ∩ C = A ∩ (B ∩ C)",
+                            "Conmutatividad: A ∩ B = B ∩ A",
+                            "Elemento neutro de la intersección: A ∩ U = U ∩ A = A",
+                            "Solo dos de las mencionadas"
+                        ]
+                    },
+                    {
+                        "pregunta": "A ∩ (A ∪ B) = A  y  A ∪ (A ∩ B) = A ¿Estas dos igualdades son corectas?",
+                        "respuesta": "Son Correctas por ley de Absorcion",
+                        "distractores": [
+                            "Son Incorrectas"
+                        ]
+                    },
+                    {
+                        "pregunta": "La diferencia entre dos conjuntos A y B en el conjunto formado por los elementos que pertenecen a A y que no pertenecen a B ¿Como se puede simbolizar esta definicion?",
+                        "respuesta": "x ∈ A − B ⟺ x ∈ A ∧ x ∉ B",
+                        "distractores": [
+                            "x ∈ A − B ⟺ x ∈ A ∧ x ∈ B",
+                            "x ∈ A − B ⟺ x ∈ A v x ∉ B"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿Cual de las siguiente NO es una propiedad de la diferencia?",
+                        "respuesta": "A - B = B - A",
+                        "distractores": [
+                            "A - A = ∅",
+                            "U − A = A̅",
+                            "A − ∅ = A",
+                            "∅ − A = ∅",
+                            "A − B ⊆ A",
+                            "A ∩ (B − C) = (A ∩ B) − (A ∩ C)",
+                            "Todas son propiedades de la diferencia"
+                        ]
+                    },
+                    {
+                        "pregunta": "La diferencia simétrica entre dos conjuntos A y B es la unión de los conjuntos A − B y B − A. Se simboliza A ∆ B. ¿Como se simboliza esta definicion?",
+                        "respuesta": "A ∆ B = (A − B) ∪ (B − A)",
+                        "distractores": [
+                            "A ∆ B = (A − B)",
+                            "A ∆ B = (B − A)",
+                            "A ∆ B = (A − B) ∩ (B − A)"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿Cual de las siguientes es una equivalencia de la diferencia simetrica A ∆ B?",
+                        "respuesta": "Las dos",
+                        "distractores": [
+                            "(A ∩ B̅ ) ∪ (B ∩ A̅)",
+                            "(A ∪ B ) − (A ∩ B )"
+                        ]
+                    },
+                    {
+                        "pregunta": "El producto cartesiano de dos conjuntos A y B (en ese orden) es el conjunto cuyos elementos son todos los pares ordenados cuya primera componente pertenece a A y la segunda a B.",
+                        "respuesta": "A X B = { (a , b) / a ∈ A ∧ b ∈ B}",
+                        "distractores": [
+                            "A X B = { (a , b) / a ∈ A ∧ b ∈ A}",
+                            "A X B = { (a , b) / a ∈ B ∧ b ∈ B}"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Inpr",
+        "nombre": "Introducción a la programación",
+        "cargaHoraria": 8,
+        "programa": "https://docs.google.com/viewer?srcid=1n0fOy_9yfjjdQorwG4X_ZN1iOUSoO1XK&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+        "links": "<a href =\"https://gobstones.github.io/gobstones-jr/?course=gobstones/curso-InPr-UNQ\" target = \"_blanck\">Entorno Gobstone JR</a> ,<a href=\"https://gobstones.github.io/gobstones-sr/?course=gobstones/curso-InPr-UNQ\" target= \"_blank\">Entorno Gobstone SR</a>",
+        "observacion": "De las 8 hrs semanales se vuelven 6 ya que las dos correspondientes a los miercoles, es para que practiques en tu casa, igual se reservan ese dia y horario para que el examen sea ese dia. Examen en papel aunque todas las clases son en computadora, Si no sabes programar hasta parametros es relativamente facil despues de eso se complica un poco, Si sabes programar, lo que mas te va a costar son los contratos, la sintaxis y algunas cosas raras de gobstone. Clases totalmente invertidas, es decir, la forma de la clase es: indagacion, teoria y luego practica, la cual en clase presencial la idea es que sea solo practica, aunque los profesores te responden cualquier consulta que tengas, los contenidos se van desbloqueando semana a semana y tienen un campus virtual distinto al de la facultad (2022 mi caso)",
+        "videos": [
+            {
+                "indice": 1,
+                "src": "https://www.youtube.com/embed/JWc58qgRh_A?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "22/08/2022",
+                "titulo": "Introduccion Gobstones 1",
+                "tema": "Concepto de gobstones, tablero, bolitas"
+            },
+            {
+                "indice": 2,
+                "src": "https://www.youtube.com/embed/f54Jka4phCw?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "22/08/2022",
+                "titulo": "Introduccion Gobstones 2",
+                "tema": "Gobston Jr a Sr"
+            },
+            {
+                "indice": 3,
+                "src": "https://www.youtube.com/embed/ao5Utm85j1E?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "22/08/2022",
+                "titulo": "Introduccion Gobston 3",
+                "tema": "Contratos: Proposito y Precondicion"
+            },
+            {
+                "indice": 4,
+                "src": "https://www.youtube.com/embed/M-l1xvCkB-8?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "23/08/2022",
+                "titulo": "Criterios para el curso",
+                "tema": "Recomendaciones para seguir el curso"
+            },
+            {
+                "indice": 5,
+                "src": "https://www.youtube.com/embed/73tp9JSn57I?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "23/08/2022",
+                "titulo": "Procedimientos 1",
+                "tema": "Definicion y Concepto de procedimiento"
+            },
+            {
+                "indice": 6,
+                "src": "https://www.youtube.com/embed/eN_aL4ty7jo?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "23/08/2022",
+                "titulo": "Procedimientos 2",
+                "tema": "Representacion de problemas"
+            },
+            {
+                "indice": 7,
+                "src": "https://www.youtube.com/embed/u2hzzbqbZ_0?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "23/08/2022",
+                "titulo": "Procedimeintos 3",
+                "tema": "Estrategias de solucion"
+            },
+            {
+                "indice": 8,
+                "src": "https://www.youtube.com/embed/pTNVPETFgbw?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "30/08/2022",
+                "titulo": "Repeticion Simple",
+                "tema": "Definicion y Concepto de repeticion simple"
+            },
+            {
+                "indice": 9,
+                "src": "https://www.youtube.com/embed/zi-OaXj7C5s?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "30/08/2022",
+                "titulo": "Parametros 1",
+                "tema": "Definicion y Concepto de parametros"
+            },
+            {
+                "indice": 10,
+                "src": "https://www.youtube.com/embed/KLk4ls1Zg_Y?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "30/08/2022",
+                "titulo": "Parametros 2",
+                "tema": "Notacion y Contratos de parametros"
+            },
+            {
+                "indice": 11,
+                "src": "https://www.youtube.com/embed/PzVjqnMBvxw?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "06/09/2022",
+                "titulo": "Tipo de datos",
+                "tema": "Tipos de datos, restricciones, nuevos operadores"
+            },
+            {
+                "indice": 12,
+                "src": "https://www.youtube.com/embed/99KvGq5OW-Y?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "13/09/2022",
+                "titulo": "Alternativa Condicional 1",
+                "tema": "Definicion y Concepto de Alternativas"
+            },
+            {
+                "indice": 13,
+                "src": "https://www.youtube.com/embed/H-NGOxBY948?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "13/09/2022",
+                "titulo": "Alternativa Condiconal 2",
+                "tema": "Booleanos y nuevos operadores"
+            },
+            {
+                "indice": 14,
+                "src": "https://www.youtube.com/embed/Q-exxwTe1k8?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "13/09/2022",
+                "titulo": "Funciones Simples",
+                "tema": "Definicion y Concepto de Funciones Simples"
+            },
+            {
+                "indice": 15,
+                "src": "https://www.youtube.com/embed/f6_2r8AQ82M?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "20/09/2022",
+                "titulo": "Repeticion Condicional 1",
+                "tema": "Explicacion de Repeticion condicional"
+            },
+            {
+                "indice": 16,
+                "src": "https://www.youtube.com/embed/IC0x0jq6rng?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "20/09/2022",
+                "titulo": "Repeticion condicional 2",
+                "tema": "Recorrido en repeticion condicional"
+            },
+            {
+                "indice": 17,
+                "src": "https://www.youtube.com/embed/qifoeYBOopk?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "27/09/2022",
+                "titulo": "Variables y Funciones con Procesamiento 1",
+                "tema": "Explicacion de Variables"
+            },
+            {
+                "indice": 18,
+                "src": "https://www.youtube.com/embed/VFoLNk5BiyI?list=PLfrTDBDj636aRNJQA19LB7paPuQX_QEpm",
+                "fecha": "27/09/2022",
+                "titulo": "Variables y Funciones con Procesamiento 2",
+                "tema": "Explicacion de Funciones con procesamiento"
+            }
+        ],
+        "apuntesteoricos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1Johi8RuxY0pVvyLp55_EPkvkpBY5gQZK&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "22/08/2022",
+                "titulo": "Introduccion Gobstones",
+                "tema": "Dinamica de trabajo y concepto generales",
+                "tipo": "Teorico",
+                "correspondencia": [
+                    1,
+                    2,
+                    3
+                ],
+                "tp": 1,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1pOEz_PpA8a6dZ8haUcwl7xDRSszmJ-Lm&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "23/08/2022",
+                "titulo": "Procedimientos",
+                "tema": "Procedimientos, Representacion de problemas, Estrategas de solucion",
+                "tipo": "Teorico",
+                "correspondencia": [
+                    4,
+                    5,
+                    6,
+                    7
+                ],
+                "tp": 2,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1rWhKM3giRjzjF2p218ZnQesEz3RV9qDx&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "30/08/2022",
+                "titulo": "Repeticion simple y Parametros",
+                "tema": "Repeticion Simple, Parametros/notacion y contratos de los mismos",
+                "tipo": "Teorico",
+                "correspondencia": [
+                    8,
+                    9,
+                    10
+                ],
+                "tp": [
+                    3,
+                    4
+                ],
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1fqYF6hhwxvl9A-4pfc_i-O5DVPR907EP&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "06/09/2022",
+                "titulo": "Tipos de datos",
+                "tema": "Tipos de datos, restricciones y nuevos operadores",
+                "tipo": "Teorico",
+                "correspondencia": 11,
+                "tp": 5,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1FHWkR4uo0mwIXyZsCF3Mi6SIZv3ghzjy&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/09/2022",
+                "titulo": "Alternativa Condicional y Funciones Simples",
+                "tema": "Alternativa Condicional, Boleeanos, Funciones Simples",
+                "tipo": "Teoria",
+                "correspondencia": [
+                    12,
+                    13,
+                    14
+                ],
+                "tp": [
+                    6,
+                    7
+                ],
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=1GlaRaGrLGuSLn1HjOewOh3RujwTmSU1Q&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "20/09/2022",
+                "titulo": "Repeticion Condicional",
+                "tema": "Repeticion COndicional  Recorridos",
+                "tipo": "Teorico",
+                "correspondencia": [
+                    15,
+                    16
+                ],
+                "tp": 8,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=1PUL-NnH4NL-oB8KtfDPk7evXhtFohOqi&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "27/09/2022",
+                "titulo": "Variables y funciones con procesamiento",
+                "tema": "Variables y funciones complejas",
+                "tipo": "Teorico",
+                "correspondencia": [
+                    17,
+                    18
+                ],
+                "tp": 8,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 8,
+                "src": "https://docs.google.com/viewer?srcid=1w_z1MwdQC_TqP2m_Aa2qiD9OA4tJ23f9&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "11/10/2022",
+                "titulo": "Registros y Variantes",
+                "tema": "Tipos de Datos Personalizados",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 11,
+                "ejercicios": "Todos los ejercicios"
+            },
+            {
+                "indice": 9,
+                "src": "https://docs.google.com/viewer?srcid=1AUEn1Chwyd4bcNJ2kK0sFs7QkNYE0Lem&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "25/10/2022",
+                "titulo": "Listas",
+                "tema": "Indagacion listas",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 12,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 10,
+                "src": "https://docs.google.com/viewer?srcid=1vLYZxeO9ssD2jc5xJjjwYefz3oRcEmU0&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "25/10/2022",
+                "titulo": "Listas",
+                "tema": "Listas",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 12,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 11,
+                "src": "https://docs.google.com/viewer?srcid=1iEjunf-ulyHtbWGqP_4YH2F-tiKzZ5ys&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "25/10/2022",
+                "titulo": "Listas",
+                "tema": "Procesamiento listas",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 12,
+                "ejercicios": "Todos"
+            }
+        ],
+        "apuntespracticos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1muIGBNXQbLQExOoUdNUh2B0GO6UX9OUU&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "22/08/2022",
+                "titulo": "Introduccion Gobstones",
+                "tema": "Conceptos basicos",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1hvaH7FErP_VY4xv25pBn8IzNSO08ha3f&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "23/08/2022",
+                "titulo": "Procedimientos",
+                "tema": "Procedimeintos, problemas y soluciones",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1CsGgCxo5siMhRGgEvdtm9ahs9XJl2v02&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "30/08/2022",
+                "titulo": "Repeticion Simple",
+                "tema": "Repeticion simple, casos de borde",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1GxleuNPUmdSSZtpZKMXhmPXCpQdTpnY4&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "30/08/2022",
+                "titulo": "Parametros",
+                "tema": "Parametros, contrato y notacion",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1gh2TvC0EZ6iWBZqzEF5atUkbsTv_GPEo&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "06/09/2022",
+                "titulo": "Tipo de datos",
+                "tema": "Tipos de datos, nuevos operadores y sensores",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=1Sel27vSbPD0a-ZvagLo_E_Iv_FMp31ce&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/09/2022",
+                "titulo": "Alternativa Condicional",
+                "tema": "Condiciones y demas",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=14ZdqDixxb6PcJ6ukI4S7GoJph-CcwQQb&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/09/2022",
+                "titulo": "Funciones Simple",
+                "tema": "Funciones simples ",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 8,
+                "src": "https://docs.google.com/viewer?srcid=1880uAjH23SvMldUT39KN9occrZPC8HnY&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "20/09/2022",
+                "titulo": "Repeticion Condicional",
+                "tema": "Repeticion Condicional y Recorridos",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 9,
+                "src": "https://docs.google.com/viewer?srcid=1vmSzReihz6ftnyIQUyhjXvcw72ViR6Q9&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "27/09/2022",
+                "titulo": "Variables y funciones con procesamiento",
+                "tema": "Variables y funciones complejas",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 10,
+                "src": "https://docs.google.com/viewer?srcid=1L59pzTE7EYiqGSl97SllHRIxhGSJvwet&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "06/10/2022",
+                "titulo": "Ejercicios PreParcial",
+                "tema": "Gobs-Man, Ms. GobsMan, Integrador Zelda",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 11,
+                "src": "https://docs.google.com/viewer?srcid=1n6aIhIjG7Q2Gv-8VJ_tfXTrk6Stbz7Qy&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "11/10/2022",
+                "titulo": "Tipos de Datos Personalizados",
+                "tema": "Tipos de Datos Personalizados",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 12,
+                "src": "https://docs.google.com/viewer?srcid=1Wggckpj7m3xB_K1caO5kgEHOLCSNz-mf&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "25/10/2022",
+                "titulo": "Listas",
+                "tema": "Listas y recorridos",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 13,
+                "src": "https://docs.google.com/viewer?srcid=1orKCA541Pp-AQGxtLgeghID9Fxxd9EWq&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "31/10/2022",
+                "titulo": "Ejercicio PreParcial 2",
+                "tema": "Comidas Gobianas, Gobsmart, Pokemon",
+                "tipo": "Practico"
+            }
+        ],
+        "juego": [
+            {
+                "id": "ji1",
+                "indice": "Unidad 1: Introduccion a Gobstone",
+                "preguntas": [
+                    {
+                        "pregunta": "¿Como se programa en Gobstone JR?",
+                        "respuesta": "Bloques",
+                        "distractores": [
+                            "Texto",
+                            "Emojis",
+                            "Audio"
+                        ],
+                        "explicacion": ""
+                    },
+                    {
+                        "pregunta": "¿De que color pueden ser las bolitas?",
+                        "respuesta": "Ninguna de las mencionadas",
+                        "distractores": [
+                            "Amarillo",
+                            "Gris",
+                            "Celeste",
+                            "Naranja"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿Como se programa en Gobstone SR?",
+                        "respuesta": "Texto",
+                        "distractores": [
+                            "Bloques",
+                            "Audio",
+                            "Emojis"
+                        ],
+                        "explicacion": ""
+                    },
+                    {
+                        "pregunta": "El lenguaje es lo mas importante al aprender la logica de la programacion",
+                        "respuesta": "Falso",
+                        "distractores": [
+                            "Verdadero"
+                        ]
+                    },
+                    {
+                        "pregunta": "Si deseo sacar una bolita rojo ¿Que comando se tendria que utilizar?",
+                        "respuesta": "Sacar(Rojo)",
+                        "distractores": [
+                            "Destruir(Rojo)",
+                            "Sacar(Violeta-Azul)",
+                            "Sacar(Rojito)",
+                            "Eliminar(Roja)"
+                        ]
+                    },
+                    {
+                        "pregunta": "Un programa es un texto que describe la solucion a un problema computacional y que debe poder ser ejecutado por una maquina",
+                        "respuesta": "Verdadero",
+                        "distractores": [
+                            "Falso",
+                            "No entendi nada"
+                        ]
+                    },
+                    {
+                        "pregunta": "Como se escriben los comentarios en Gobstone?",
+                        "respuesta": "//comentario",
+                        "distractores": [
+                            "[comentario]",
+                            "(comentario)",
+                            "{{comentario"
+                        ]
+                    },
+                    {
+                        "pregunta": "Mover y Sacar son comandos parciales..¿Que significa esto?",
+                        "respuesta": "Son comandos que tienen precondicion por si solo",
+                        "distractores": [
+                            "Porque funcionan siempre",
+                            "Porque su precondicion es nula"
+                        ]
+                    },
+                    {
+                        "pregunta": "Siempre se busca la precondicion mas debil",
+                        "respuesta": "Verdadero",
+                        "distractores": [
+                            "Falso"
+                        ],
+                        "explicacion": ""
+                    },
+                    {
+                        "pregunta": "Para que sirve el contrato de un programa?",
+                        "respuesta": "Todas son Correctas",
+                        "distractores": [
+                            "Indica que hace el programa",
+                            "Indica cuando funciona y cuando no",
+                            "Para reutilizar codigo",
+                            "Pensar el problema antes de intentar solucionarlo"
+                        ],
+                        "explicacion": ""
+                    },
+                    {
+                        "pregunta": "Para que sirve el proposito de un programa?",
+                        "respuesta": "Indicar la transformacion del tablero",
+                        "distractores": [
+                            "Para nada",
+                            "Para saber como se resuelve el problema",
+                            "Para saber cuando sirve y cuando no"
+                        ]
+                    },
+                    {
+                        "pregunta": "La precondicion nos permite saber cuando funciona o no funciona el programa",
+                        "respuesta": "Verdadero",
+                        "distractores": [
+                            "Falso"
+                        ],
+                        "explicacion": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Ttu",
+        "nombre": "Taller de Trabajo Universitario",
+        "cargaHoraria": 2,
+        "programa": "https://docs.google.com/viewer?srcid=1s7Q4x-juOhCDfnXP4xyYZ7SvBIG_OQXo&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+        "links": null,
+        "observacion": "La materia se trata sobre la historia de la Universidad en la Argentina, es full teorica, la clase es escuchar al profesor hablar y hablar, lo mas parecido a clase de historia, el tema no es tan aburrido como parece, aunque no esperes que realmente te den ganas de ir. En teoria no hay parciales, se hacen trabajos practicos, cada semana manda la clase escrita y videos, el profesor recomienda primero ver lo audiovisual y luego los textos (2022 mi caso)",
+        "videos": [
+            {
+                "indice": 1,
+                "src": "https://www.youtube.com/embed/hyYz3tKSPPA",
+                "fecha": "25/08/2022",
+                "titulo": "Historia del sistema Universitario 1",
+                "tema": "Los Origenes (1600-1820)"
+            },
+            {
+                "indice": 2,
+                "src": "https://www.youtube.com/embed/muF3fBNqFJs",
+                "fecha": "03/09/2022",
+                "titulo": "Historia del sistema Universitario 2",
+                "tema": "Ley Avellaneda (1820-1905)"
+            },
+            {
+                "indice": 3,
+                "src": "https://www.youtube.com/embed/pc6XeTwhAhk",
+                "fecha": "08/08/2022",
+                "titulo": "Historia del sistema Universitario 3",
+                "tema": "La Reforma Universitaria (1918-1930)"
+            },
+            {
+                "indice": 4,
+                "src": "https://www.youtube.com/embed/61ju4wPcJMc",
+                "fecha": "15/09/2022",
+                "titulo": "Historia Del sistema Universitario 4",
+                "tema": "Universidad y Trabajo (1946-1955)"
+            },
+            {
+                "indice": 5,
+                "src": "https://www.youtube.com/embed/8mTSzd0C1EM",
+                "fecha": "13/10/2022",
+                "titulo": "Historia del sistema Universitario",
+                "tema": "Laica o Libre"
+            }
+        ],
+        "apuntesteoricos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1augRuBhwtNDwIdI72mruY-BSN1Cx4V6v&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "25/08/2022",
+                "titulo": "Clase 1",
+                "tema": "Origenes medievales de la universidad",
+                "tipo": "Teorico",
+                "correspondencia": 1,
+                "tp": null,
+                "ejercicios": null
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1L3hfJaEeXpGxm3j5qbYpiOufTGDUTSVY&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "03/09/2022",
+                "titulo": "Clase 2",
+                "tema": "De 1820 a 1900, Ley de Avellaneda",
+                "tipo": "Teorico",
+                "correspondencia": [
+                    2,
+                    3
+                ],
+                "tp": null,
+                "ejercicios": null
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1ILhJ0IB2tv4Vi3mKQzT-rhoG2700jx4n&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/09/2022",
+                "titulo": "Clase 3 ",
+                "tema": "Peronismo (1946-1955)",
+                "tipo": "Teorico",
+                "correspondencia": 4
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1ex1nE6vgmQJEuPg4sK0PwsCVV2SOdf4T&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "17/09/2022",
+                "titulo": "TP 1",
+                "tema": "Historia de la universida y Reforma Universitaria",
+                "tipo": "Practico",
+                "correspondencia": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "tp": "Leer algun texto de la bibliografia optatvia",
+                "ejercicios": "al menos dos"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1g06VVazJWXLqd0BCb5Yy1cVd_0CBm6x_&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "13/10/2022",
+                "titulo": "Clase 4",
+                "tema": "El fin de la República de masas",
+                "tipo": "Teorico",
+                "correspondencia": 5
+            }
+        ],
+        "apuntespracticos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1uo690XT8krxhxYc6mjYRtoxr-xXM_vfK&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "03/09/2022",
+                "titulo": "Bibliografia Optativa 1",
+                "tema": "Historia de las Universidad Argentinas Pablo Buchbinder",
+                "tipo": "BIbliografia Optativa"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1cU9RYHfzvKLHlYdJfztequKKzln53G3x&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "03/09/2022",
+                "titulo": "Bibliografia Optativa 2",
+                "tema": "Historia Argentina (1916-1955) Alejandro Cattaruzza",
+                "tipo": "Bibliografia Optativa"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=10rJa_x-sSq9mfOOqX5ngg1I_bDmK8a73&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "03/09/2022",
+                "titulo": "Bibliografia Optativa 3",
+                "tema": "Capitulo 5 La reforma Universitaria Pablo Buchbinder",
+                "tipo": "Bibliografia Optativa"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1U1myaVNltfyxXojXmnk9BULyqoLg6z5B&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "03/09/2022",
+                "titulo": "Bibliografia Optativa 4",
+                "tema": "Manifesto Liminar de la Reforma Universitaria Sandra Carli",
+                "tipo": "Bibliografia Otativa"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1kexMCsoImIhXgQjK-0yBfiEKVZWNZtlZ&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/09/2022",
+                "titulo": "Bibliografia Optativa 5",
+                "tema": "La Juventud Argentina de Cordoba a America, desde la pag 6 hasta que termina ese articulo",
+                "tipo": "Bibliografia Optativa"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=1eMVuXTadca-BDLjbRxn-fSh8SwRYAMEC&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/09/2022",
+                "titulo": "Bibliografai Optativa 6",
+                "tema": "Todo lo que tenes que saber de la Reforma Universitaria",
+                "tipo": "BIbliogarafia Optativa"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=13JF-QCvOczxpVgvUB88N5autVGxeRr68&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/09/2022",
+                "titulo": "Bibliografia Optativa 7",
+                "tema": "La reforma Universitario Pasado-Presente",
+                "tipo": "Bilbiografia Optativa"
+            },
+            {
+                "indice": 8,
+                "src": "https://docs.google.com/viewer?srcid=1JyDWtRcDJrKEWS0Xw5N3gJom9u6_tytR&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "17/09/2022",
+                "titulo": "Bibliografia Optativa 8",
+                "tema": "Cuando los trabajadores salieron de compras",
+                "tipo": "Bilbiografai OPtativa"
+            },
+            {
+                "indice": 9,
+                "src": "https://docs.google.com/viewer?srcid=1uUxbcpJBLbC3gb8jk14X39G4kjmTkCT0&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "17/09/2022",
+                "titulo": "Bibliografia Optativa 9",
+                "tema": "La crisis del MOdelo Reformista",
+                "tipo": "Bibliografia Optativa"
+            },
+            {
+                "indice": 10,
+                "src": "https://docs.google.com/viewer?srcid=1KScLm6n4r_YbFsLuM_sVHUb_EbZ4CNKs&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "17/09/2022",
+                "titulo": "Bibliografia Optativa 10",
+                "tema": "De zoologicos y carnavales"
+            },
+            {
+                "indice": 11,
+                "src": "https://docs.google.com/viewer?srcid=1_Rxq9uwvjVPqq1edA2IxJUtMWa2P2Dmk&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "13/10/2022",
+                "titulo": "Bibliografia Optativa 11",
+                "tema": "La Mensula ¿Laica o LIbre?",
+                "tipo": "Bibliografia Optativa"
+            }
+        ],
+        "juego": null
+    },
+    {
+        "id": "Orga",
+        "nombre": "Organizacion de Computadoras",
+        "cargaHoraria": 6,
+        "programa": "https://docs.google.com/viewer?srcid=1zl-NYaHDeqwA4e4eycBC8z6NkdBvCanY&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+        "links": "<a href=http://orga.blog.unq.edu.ar target = \"_blanck\">blog</a>",
+        "observacion": "Muy buena materia, comoda con el alumno, no seguir a pie de letra el libro y las practicas porque la van actualizando siempre, el blog tiene toda informacion necesaria, Comision 2, Primer Cuatrimestre 2023",
+        "videos": [
+            {
+                "indice": 1,
+                "src": "https://archive.org/details/UNQ-U1-bss",
+                "fecha": "1/4/2023",
+                "titulo": "Unidad 1",
+                "tema": "Sistema Binario"
+            },
+            {
+                "indice": 2,
+                "src": "https://archive.org/details/orga-ciclo-de-vida",
+                "fecha": "1/4/2023",
+                "titulo": "Unidad 2",
+                "tema": "Q1 y ciclo de vida"
+            },
+            {
+                "indice": 3,
+                "src": "https://archive.org/details/UNQ-U3-logica-digital",
+                "fecha": "1/4/2023",
+                "titulo": "Unidad 3",
+                "tema": "Logica Digital"
+            },
+            {
+                "indice": 4,
+                "src": "https://archive.org/details/UNQ-U4-memoria-buses",
+                "fecha": "1/4/2023",
+                "titulo": "Unidad 4",
+                "tema": "Memoria Principal y Buses Q2"
+            },
+            {
+                "indice": 5,
+                "src": "https://archive.org/details/UNQ-U5-rutinas",
+                "fecha": "1/4/2023",
+                "titulo": "Unidad 5",
+                "tema": "Rutinas Q3"
+            },
+            {
+                "indice": 6,
+                "src": "https://archive.org/details/u-6-sm",
+                "fecha": "1/4/2023",
+                "titulo": "Unidad 6",
+                "tema": "Sistema Enteros"
+            },
+            {
+                "indice": 7,
+                "src": "https://archive.org/details/UNQ-u8-mascaras-repeticions",
+                "fecha": "1/4/2023",
+                "titulo": "Unidad 8",
+                "tema": "Mascaras-Repeticiones"
+            },
+            {
+                "indice": 8,
+                "src": "https://archive.org/details/UNQ-u9-arreglos",
+                "fecha": "1/4/2023",
+                "titulo": "Unidad 9",
+                "tema": "Arreglos"
+            },
+            {
+                "indice": 9,
+                "src": "https://archive.org/details/UNQ-u10-memoria",
+                "fecha": "1/4/2023",
+                "titulo": "Unidad 10",
+                "tema": "Subsistema de memoria, Memoria Cache"
+            },
+            {
+                "indice": 10,
+                "src": "https://archive.org/details/u-11-1-intro-punto-fijo",
+                "fecha": "1/4/2023",
+                "titulo": "Unidad 11",
+                "tema": "Sistema Fraccionarios"
+            }
+        ],
+        "apuntesteoricos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1Z2FwekNtOzq1c-ZuAWJL2P3hD9BSUlIj&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/7/2023",
+                "titulo": "Libro de Orga UNQ V0.34",
+                "tema": "Sistema de numeracion, Logica Digital, Q1, Q2, Q3, Q4, Q5, Arreglos, Memoria Cache",
+                "tipo": "Teorico",
+                "correspondencia": "Todos",
+                "tp": "Todos",
+                "ejercicios": "Todos"
+            }
+        ],
+        "apuntespracticos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1DlIhcCmtQUG6L4x3UP8UVXfbO6CKH3oy&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 1",
+                "tema": "Sistema de numeracion Natural",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=15ubyvojwBcCRylnZXXqQIP0NUg9X6crM&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 2",
+                "tema": "Q1",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1M4L9wjWJBP-FkjeZS_njxJagiaiOzoFb&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 3",
+                "tema": "Logica Digital",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1GbAzin9LT00xFAhYYB0TIP4xMQpuGOi9&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 4",
+                "tema": "Q2",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1BaRPGm5x-jpZpLHSZMnaxwaaUDlJ-Inx&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 5",
+                "tema": "Sistemas Enteros",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=1bxbDGXrg_hiF6ScBaRNC1LZ-ZNy4KD4t&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 6",
+                "tema": "Q3, Rutinas",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=1--mZK6yRBygoadvLTnIf-LXb_oucnZHs&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 7",
+                "tema": "Q4, Saltos",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 8,
+                "src": "https://docs.google.com/viewer?srcid=1vlt7bsa-4GdkrRFjwFoJzEwwJ7VD2eTL&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 8",
+                "tema": "Q5, Repeticiones y mascaras",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 9,
+                "src": "https://docs.google.com/viewer?srcid=1jNF7UXZlwS12Dc7eNT9hOPvX0eSOPd5t&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 9",
+                "tema": "Q6, Arreglos",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 10,
+                "src": "https://docs.google.com/viewer?srcid=1fc_HtURAokHpoelCPDxtQ1YYMkFT1EZq&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 10",
+                "tema": "Ssitemas Fraccionarios",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 11,
+                "src": "https://docs.google.com/viewer?srcid=1zu-Z0A7mu8_LP6hgIh6cLdQOPilLY0yS&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 11",
+                "tema": "Memoria Cache",
+                "tipo": "Practico"
+            }
+        ],
+        "juego": null
+    },
+    {
+        "id": "Estrd",
+        "nombre": "Estructura de Datos",
+        "cargaHoraria": 8,
+        "programa": "https://docs.google.com/viewer?srcid=1DVThf_x4QrWbtlv3FEQLVjpCl7HpPCIq&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+        "links": "",
+        "observacion": "",
+        "videos": [
+            {
+                "indice": 1,
+                "src": "https://www.youtube.com/embed/CW09lRWB1cY?list=PL6lbGW3UNWzwDvcKTCyGlNBeEtHvdKzKk",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 1",
+                "tema": "Tipos Algebraicos"
+            },
+            {
+                "indice": 2,
+                "src": "https://www.youtube.com/embed/AuzMeB7XXE8?list=PL6lbGW3UNWzwDvcKTCyGlNBeEtHvdKzKk",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 2",
+                "tema": "Listas y Recursion Estructural"
+            },
+            {
+                "indice": 3,
+                "src": "https://www.youtube.com/embed/EewENzmemDE?list=PL6lbGW3UNWzwDvcKTCyGlNBeEtHvdKzKk",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 3",
+                "tema": "Tipos Algebraicos Recursivos"
+            },
+            {
+                "indice": 4,
+                "src": "https://www.youtube.com/embed/-uoj0NMj3fQ?list=PL6lbGW3UNWzwDvcKTCyGlNBeEtHvdKzKk",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 4",
+                "tema": "Repaso 1"
+            },
+            {
+                "indice": 5,
+                "src": "https://www.youtube.com/embed/4oNVo2qcYk4?list=PL6lbGW3UNWzwDvcKTCyGlNBeEtHvdKzKk",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 5",
+                "tema": "Tipos Abstractos de datos 1"
+            },
+            {
+                "indice": 6,
+                "src": "https://www.youtube.com/embed/hmXWEqI4HfQ?list=PL6lbGW3UNWzwDvcKTCyGlNBeEtHvdKzKk",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 6",
+                "tema": "Tipos Abstractos de datos 2"
+            },
+            {
+                "indice": 7,
+                "src": "https://www.youtube.com/embed/aSQmW__iWpc?list=PL6lbGW3UNWzwDvcKTCyGlNBeEtHvdKzKk",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 7",
+                "tema": "Tipos Abstractos de datos 3"
+            },
+            {
+                "indice": 8,
+                "src": "https://www.youtube.com/embed/BN28qFArYkw?list=PL6lbGW3UNWzwDvcKTCyGlNBeEtHvdKzKk",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 8",
+                "tema": "Repaso 2"
+            },
+            {
+                "indice": 9,
+                "src": "https://www.youtube.com/embed/-AVvybCqFiE?list=PL6lbGW3UNWzwDvcKTCyGlNBeEtHvdKzKk",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 9",
+                "tema": "Modelo Imperativo"
+            },
+            {
+                "indice": 10,
+                "src": "https://www.youtube.com/embed/abli7OdhazQ?list=PL6lbGW3UNWzwDvcKTCyGlNBeEtHvdKzKk",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 10",
+                "tema": "Puntero y Arrays"
+            },
+            {
+                "indice": 11,
+                "src": "https://www.youtube.com/embed/zo9z5ngShvY?list=PL6lbGW3UNWzwDvcKTCyGlNBeEtHvdKzKk",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 11",
+                "tema": "Linked List"
+            }
+        ],
+        "apuntesteoricos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1j9ovAKwbHFMbDgZT7MKcEPXKLm44d2w6&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 1",
+                "tema": "Tipos Algebraicos",
+                "tipo": "Teorico",
+                "correspondencia": 1,
+                "tp": 1,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=15Np56bMPyJ6M3KHizAF4hJgPknO-zBjK&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 2",
+                "tema": "Listas y Recursion estructural",
+                "tipo": "Teorico",
+                "correspondencia": 2,
+                "tp": 2,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1HxiA6fTJTE9fSu8NF8BFimyDxvJLStgH&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 3",
+                "tema": "Tipos Algebraicos recursivos y recursion estructural",
+                "tipo": "Teorico",
+                "correspondencia": 3,
+                "tp": 3,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=13gIzyQx1nz2Au9VhcrfAchozk02HRkvu&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 4",
+                "tema": "Repaso 1",
+                "tipo": "Teorico",
+                "correspondencia": 4,
+                "tp": 4,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=17GfcVxKPlT7prlhfnv9cVQfHOnITalQ5&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 5",
+                "tema": "Tipos Abstractos 1 (Stack, Queue, Set)",
+                "tipo": "Teorico",
+                "correspondencia": 5,
+                "tp": 5,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=1Sp3x_WiItLwV-bq3dDKwbNkkcuXA5oAf&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 6",
+                "tema": "Tipos Abstractos 2 (Multisets, Maps y Priority Queue)",
+                "tipo": "Teorico",
+                "correspondencia": 6,
+                "tp": 6,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=1BPpYtQjP95rTk5ErHWH07J_P4Fcp3yU1&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 7",
+                "tema": "Tipos Abstractos 3 (Heaps, BSTs y AVLs)",
+                "tipo": "Teorico",
+                "correspondencia": 7,
+                "tp": 7,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 8,
+                "src": "https://docs.google.com/viewer?srcid=1DObebMQEcLvIvOYic8tGXVnLoqyNSyTq&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 8",
+                "tema": "Repaso 2",
+                "tipo": "Teorico",
+                "correspondencia": 8,
+                "tp": 8,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 9,
+                "src": "https://docs.google.com/viewer?srcid=1HMgy2qwRzQvzdCqpXzd6V7szSJJO3usE&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 9",
+                "tema": "Modelo Imperativo",
+                "tipo": "Teorico",
+                "correspondencia": 9,
+                "tp": 9,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 10,
+                "src": "https://docs.google.com/viewer?srcid=1JjGby5F1DjtcO77hWJsQaB7bMP3ngpAH&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 10",
+                "tema": "Puntero y Arrays",
+                "tipo": "Teorico",
+                "correspondencia": 10,
+                "tp": 10,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 11,
+                "src": "https://docs.google.com/viewer?srcid=14LbdZzYaDSydLek7S8xzY38LrgSN5AP0&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Clase 11",
+                "tema": "Linked List y arboles en imperativo",
+                "tipo": "Teorico",
+                "correspondencia": 11,
+                "tp": 11,
+                "ejercicios": "Todos"
+            }
+        ],
+        "apuntespracticos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1MXNflDHKp8Fwt4UFabdIxv38W9gUDJ-F&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 1",
+                "tema": "Tipos Algebraicos",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1VVMRldVtH3G28sxIlhkx3iFWZoEP8c1N&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 2",
+                "tema": "Listas y Recursion Estrucutral",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1sDmFx4Mza7vmZNiRDPDPfycVizeCEYOL&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 3",
+                "tema": "Tipos algebraicos recursivos",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1Lxzfz9dSxjgXSrc1SyjjJnaLDr37vh5q&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 4",
+                "tema": "Repaso",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1Sx58qvHFNc0WVVDncjJ9pUIJkUfHiRUJ&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 5",
+                "tema": "Tipos Abstractos 1",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=10g1itzC_qJNLMyHtH9U8xXrVuUKJJ_NN&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 6",
+                "tema": "Tipos Abstractos 2",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=1uJ5IKmV1JVn8KbseHFAZ5lYtGNoTvQoe&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 7",
+                "tema": "Heaps, Bsts",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 8,
+                "src": "https://docs.google.com/viewer?srcid=1N5iTESeI9nD4LieP8PnQM9EKPAZ5xSDI&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 8",
+                "tema": "Repaso 2 (unidos)",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 9,
+                "src": "https://docs.google.com/viewer?srcid=1T-9TLD1ndd90MoMnUBuKM_1AwEEyC53e&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 9",
+                "tema": "Modelo Imperativo",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 10,
+                "src": "https://docs.google.com/viewer?srcid=1_x-b4r52_4mIMPJst4850TZ8JVffgmyh&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 10",
+                "tema": "Puntero y Arrays",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 11,
+                "src": "https://docs.google.com/viewer?srcid=1c31s97Cu5f6Umy0kqQGBCB7qdSzDZsx8&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 11",
+                "tema": "Linkedin list y arboles en impertativo",
+                "tipo": "Practico"
+            }
+        ],
+        "juego": null
+    },
+    {
+        "id": "obj1",
+        "nombre": "Programacion orientado a Objetos 1",
+        "cargaHoraria": 8,
+        "programa": "https://docs.google.com/viewer?srcid=1go2lxBuBd8JZGamaMMTqZS6FQMKoif-F&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+        "links": "<a href=\"https://sites.google.com/view/unq-cpi-obj1-c1/home?authuser=0\" target=\"_blank\">Pagina de la materia</a>",
+        "observacion": null,
+        "videos": [],
+        "apuntesteoricos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1FbMbK0s67lSzHjA80Dklm1d6QTDo23jx&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Dispositivas Primera Clase",
+                "tema": "Principios Programacion orientada a Objetos",
+                "tipo": "Teorica",
+                "correspondencia": null,
+                "tp": null,
+                "ejercicios": null
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=19QFQwrxQd546rAxdoryTj-8oQ69gN6Di&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Cuis University",
+                "tema": "Cuis University",
+                "tipo": "Teorica",
+                "correspondencia": null,
+                "tp": null,
+                "ejercicios": null
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=173wK5NS7aV1eGcXGGDmx31KJDeKdOrxW&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "TDD",
+                "tema": "Concepto y Utilidad del TDD",
+                "tipo": "Teorica",
+                "correspondencia": null,
+                "tp": null,
+                "ejercicios": null
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1WhSpvFnwW_BHdPQqk-Tv6O1OqXA8TuYs&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Delegacion y Doble Dispatch",
+                "tema": "Delegacion y Doble Dispatch",
+                "tipo": "Teorica",
+                "correspondencia": null,
+                "tp": null,
+                "ejercicios": null
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1gTnZ8gvYce9BlezCYQ-FSEs2YgmRVfno&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Colecciones",
+                "tema": "Distintas Colecciones y sus mensajes",
+                "tipo": "Teorica",
+                "correspondencia": null,
+                "tp": null,
+                "ejercicios": null
+            }
+        ],
+        "apuntespracticos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1wcrS2t0L36fJP7OLaRsVeCn_gdqXH_es&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 1",
+                "tema": "Objetos denotativos",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1hxCKlVlQgiFpEbhiu98dA9hQVx3Rf2Xw&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 2",
+                "tema": "Clases y Colecciones",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1paqbXeLCbuUc_2gQaOXW5d9Wwm5vxObB&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/4/2023",
+                "titulo": "Practica 3",
+                "tema": "Mas Clases",
+                "tipo": "Practico"
+            }
+        ],
+        "juego": null
+    },
+    {
+        "id": "red",
+        "nombre": "Redes de Computadoras",
+        "cargaHoraria": 6,
+        "programa": "https://docs.google.com/viewer?srcid=null&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+        "links": null,
+        "observacion": null,
+        "videos": [],
+        "apuntesteoricos": [
+            {
+                "indice": 1,
+                "src": "https://bibliotecavirtualapure.wordpress.com/wp-content/uploads/2015/06/redes_de_computadoras-freelibros-org.pdf",
+                "fecha": "15/8/2023",
+                "titulo": "Libro de la Materia",
+                "tema": "Redes de computadores Tanenbaum",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": null,
+                "ejercicios": ""
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1kESMQUtksz3ITWyclTd_P0dgozOkgiTv&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Presentacion",
+                "tema": "Intro Osi",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1WUk48PmIVFaW3uUdOc25vNNcPBRw8YpV&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Aplicacion 1",
+                "tema": "Capa de  Aplicacion",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1pnVMIeeVTFhsQU2-nVgzoBdKk2UBbyBg&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Aplicacion 2",
+                "tema": "SMTP - POP",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1tGeHEOAQRmKw3onQ3PusW-ncOaQlmOyN&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Aplicacion 3",
+                "tema": "HTML",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=1-A1KHxfvSXVw_XK0VUA2is8m-RNo8quo&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Aplicacion 4",
+                "tema": "HTTP",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=19R7OFdemXEIANo_E_A6PnXk5OS0iEqrS&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Aplicacion 5",
+                "tema": "DHCP",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 8,
+                "src": "https://docs.google.com/viewer?srcid=12syTt5yQi4kq2pjKfCy44H5CnB8tyZPd&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Transporte",
+                "tema": "Capa de Transporte",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 9,
+                "src": "https://docs.google.com/viewer?srcid=1YfCWxHBzSThAR8ZTeACVCCHi003ID12Q&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Red 1",
+                "tema": "Capa De Red",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 10,
+                "src": "https://docs.google.com/viewer?srcid=1s9Zz7gRHpxhvWY3Y2Gphia1VpNbm6Nix&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Red 2",
+                "tema": "Subneteo",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 11,
+                "src": "https://docs.google.com/viewer?srcid=15VDVFhmIRmJ4mEFbZnmq_6G04gd9S2uO&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Red 3",
+                "tema": "Ruteo",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 12,
+                "src": "https://docs.google.com/viewer?srcid=17AEfl3qzuaQNMCXrnBjGPetfytnpE-67&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Protocolocs Auxiliares 1",
+                "tema": "Protocolo ICMP",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 13,
+                "src": "https://docs.google.com/viewer?srcid=1cLWUD4g1s7WtW-nKxhOcPQlFyzCcZASX&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Protocolos Auxiliares 2",
+                "tema": "Protocolo Nat",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 14,
+                "src": "https://docs.google.com/viewer?srcid=1Vzd6ZHp0Sf0Z1J_Mge_WjuJg2EebeNSk&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Enlace",
+                "tema": "Capa de Enlace",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 15,
+                "src": "https://docs.google.com/viewer?srcid=1-kB5IoAP1xFjSi_JmO4E6pQmj4162fHn&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Enlace 2",
+                "tema": "Protocolo ARP",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            }
+        ],
+        "apuntespracticos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1viohzSl2pXYO7FDTpAI1cBWLJjmmgckB&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Practica 1",
+                "tema": "Introduccion",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=16-2skzQm_nah0K_dxu-qvJAFx86E_Jix&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Practica 2",
+                "tema": "DNS",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1BF2qyOdibjKPCR-wVLV6Eas_MT5WIE7p&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Laboratorio 2",
+                "tema": "DNS",
+                "tipo": "Laboratorio"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1F33fPxhPJRKQ7jjYhLtGfVDTCHuov6Qg&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Practica 3",
+                "tema": "World Wide Web",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1aSpTHMmkXdUbwxsIixg8A7IzdRwccAGk&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Laboratorio 3",
+                "tema": "World Wide Web",
+                "tipo": "Laboratorio"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=1Bf9qkb5FbVV6u2knIs87p5AEpVy9ZoVX&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Practica 4",
+                "tema": "Correo Electronico",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=1j0F0272b6aU29mQAXLqVLF5zlzVhsGHg&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Laboratorio 4",
+                "tema": "Correo Electronico",
+                "tipo": "Laboratorio"
+            },
+            {
+                "indice": 8,
+                "src": "https://docs.google.com/viewer?srcid=1xFC8Whgh_mfnrN7awOQGMF4o2Wz4TW9r&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Practica 5",
+                "tema": "Transporte",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 9,
+                "src": "https://docs.google.com/viewer?srcid=1Y59FOVJ8o9AxdYkdwVPGAfxtuoPE4F8k&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Laboratorio 5",
+                "tema": "Transporte",
+                "tipo": "Laboratorio"
+            },
+            {
+                "indice": 10,
+                "src": "https://docs.google.com/viewer?srcid=1Vyk6NbIJpfRuRW4ea9sgVva81Df23K4l&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Practica 6",
+                "tema": "Red",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 11,
+                "src": "https://docs.google.com/viewer?srcid=1Fd8MuYHHSYGQ-_v_2z8tqGH4OWKGXCod&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Laboratorio 6",
+                "tema": "Red",
+                "tipo": "Laboratorio"
+            },
+            {
+                "indice": 12,
+                "src": "https://docs.google.com/viewer?srcid=1cSsjS_0XIeevKXAAcpsr__CL1679LFbC&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Laboratorio Extra",
+                "tema": "DHCP",
+                "tipo": "Laboratorio"
+            },
+            {
+                "indice": 13,
+                "src": "https://docs.google.com/viewer?srcid=1a3i2mdz35Hv2vDKHrGevYS0uLcHSDuEI&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Practica 7",
+                "tema": "Enlace de datos - MAC",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 14,
+                "src": "https://docs.google.com/viewer?srcid=12ujfX7yCjdIqTl2AT5eU6fAfbydXunb4&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Laboratorio 7",
+                "tema": "Enlace de datos - VLAN",
+                "tipo": "Laboratorio"
+            },
+            {
+                "indice": 15,
+                "src": "https://docs.google.com/viewer?srcid=1g-k7SRJxNRUoJx4bbLNEOimD5X1sFSuC&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Laboratorio Extra",
+                "tema": "NAT",
+                "tipo": "Laboratorio"
+            }
+        ],
+        "juego": null
+    },
+    {
+        "id": "bsd",
+        "nombre": "Base de Datos",
+        "cargaHoraria": 6,
+        "programa": "https://docs.google.com/viewer?srcid=null&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+        "links": null,
+        "observacion": null,
+        "videos": [
+            {
+                "indice": 1,
+                "src": "https://www.youtube.com/embed/IaSKuNzFHEg",
+                "fecha": "6/7/2024",
+                "titulo": "1 Clase Teorica BSD",
+                "tema": "Introduccion de DBMS"
+            },
+            {
+                "indice": 2,
+                "src": "https://www.youtube.com/embed/RH7UJeZHbA0",
+                "fecha": "6/7/2024",
+                "titulo": "2 Clase Teorica BSD",
+                "tema": "MER"
+            },
+            {
+                "indice": 3,
+                "src": "https://www.youtube.com/embed/BPT8oeF0LnM",
+                "fecha": "6/7/2024",
+                "titulo": "3 Clase Teorica BSD",
+                "tema": "MR: Modelo relacional"
+            },
+            {
+                "indice": 4,
+                "src": "https://www.youtube.com/embed/f6B-uKeKXmA",
+                "fecha": "6/7/2024",
+                "titulo": "4 Clase Teorica BSD",
+                "tema": "MR: mapeo de entidades y relaciones MER"
+            },
+            {
+                "indice": 5,
+                "src": "https://www.youtube.com/embed/31XrdUYiYQw",
+                "fecha": "6/7/2024",
+                "titulo": "5 Clase Teorica BSD",
+                "tema": "MR: relaciones recursivas"
+            },
+            {
+                "indice": 6,
+                "src": "https://www.youtube.com/embed/zfctP6PpJsw",
+                "fecha": "6/7/2024",
+                "titulo": "6 Clase Teorica BSD",
+                "tema": "MER, MR ,SQL/DDL"
+            },
+            {
+                "indice": 7,
+                "src": "https://www.youtube.com/embed/NsqnkUGZLMM",
+                "fecha": "6/7/2024",
+                "titulo": "7 Clase Teorica BSD",
+                "tema": "SQL - Clase 1"
+            },
+            {
+                "indice": 8,
+                "src": "https://www.youtube.com/embed/-9eiwxURAvQ",
+                "fecha": "6/7/2024",
+                "titulo": "8 Clase Teorica BSD",
+                "tema": "SQL - Clase 2"
+            },
+            {
+                "indice": 9,
+                "src": "https://www.youtube.com/embed/9FROGCaFaEQ",
+                "fecha": "6/7/2024",
+                "titulo": "9 Clase Teorica BSD",
+                "tema": "SQL - Clase 3"
+            },
+            {
+                "indice": 10,
+                "src": "https://www.youtube.com/embed/uK_Wj-Tip-s",
+                "fecha": "6/7/2024",
+                "titulo": "10 Clase Teorica BSD",
+                "tema": "SQL - Clase 4"
+            }
+        ],
+        "apuntesteoricos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1T59DHzc6tmpzVxCjtkKrMvUSv10lG6L2&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Teorica 1",
+                "tema": "MER-MR",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1n4nSnauiChPmUFt31P-K0fryaCYcRiWv&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Teorica 2",
+                "tema": "MR",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1o6RdzzrlNOLkv2btHMagcvbcBRxJTV1s&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Teorica 3",
+                "tema": "Mapeos",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1KasHuZtsgwwMNnpckKg_a2RWNmY_BBo_&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Teorica 4",
+                "tema": "SQL",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1-BpJlG0Gx179TcZY-eZ_lVp3AM1jleCI&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Extra",
+                "tema": "Explicacion Cardinalidades",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=1OVqApxqdt26MC65C4SC1y2PHcCxdhQM9&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Teorica 5",
+                "tema": "AR",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=1G_8IE7POdbmZCvymCXyPJmztSxxSyhX0&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Extra",
+                "tema": "Renombre",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 8,
+                "src": "https://docs.google.com/viewer?srcid=1c2GPuSiJJQZ2N2U0QEE66Xuqv_2o-J6n&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Teorica 6-1",
+                "tema": "SQL",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 9,
+                "src": "https://docs.google.com/viewer?srcid=1fEfWE1n9uLxR4dkec-af_X537Xbb81LK&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Teorica 6-2",
+                "tema": "SQL-DDL",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 10,
+                "src": "https://docs.google.com/viewer?srcid=1aexSL6D4zSpGm_aZ9-erZ-F160pXC6sb&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Teorica 6-3",
+                "tema": "SQL-DML",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 11,
+                "src": "https://docs.google.com/viewer?srcid=1qgxZ_tsWkgTdXHc0aunScJogAPrj1bTM&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Teorica 7",
+                "tema": "SQL agregation funcion",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 12,
+                "src": "https://docs.google.com/viewer?srcid=1kkxjOqcj7ZRtd0q9NrjSX4wH82gXITeN&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Extra",
+                "tema": "Having",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 13,
+                "src": "https://docs.google.com/viewer?srcid=1ph_RITnbMQbqV-yssj-EntJ96534UMtW&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Teorica 8",
+                "tema": "SQL JOINS",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 14,
+                "src": "https://docs.google.com/viewer?srcid=17JkHgMry0wX82C3d1ng6YuRMEmzjnPuu&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Extra",
+                "tema": "Transacciones",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 15,
+                "src": "https://docs.google.com/viewer?srcid=1uo_jXLouZDB6BkOk6feHZszhwppUCm80&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Extra",
+                "tema": "Indices, Vsita, Triggers",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 16,
+                "src": "https://docs.google.com/viewer?srcid=13Vs1UR-wuqoQBco2jVRpG269R2WuRdjJ&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Teorica 9-1",
+                "tema": "Normalizacion - DF y 1FN",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 17,
+                "src": "https://docs.google.com/viewer?srcid=1NSIFNs8eHOl7jL4S3DiGjv0_lSStPjXo&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Teorica 9-2",
+                "tema": "Normalizaion - 2FN y 3FN",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            },
+            {
+                "indice": 18,
+                "src": "https://docs.google.com/viewer?srcid=193jF9uZ3sdQh1jTlyH0vR3uDXCgpRJjj&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Teorica 9-3",
+                "tema": "Normalizacion DM y 4FN",
+                "tipo": "Teorico",
+                "correspondencia": "",
+                "tp": "",
+                "ejercicios": ""
+            }
+        ],
+        "apuntespracticos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1D3L-GODYBzvld2J-UwPlJ6yaa1c8FYpO&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Practica 1",
+                "tema": "Mer - mr",
+                "tipo": "Practica"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1VPz4Y0mqMVrBzjMujlw8hW1RdqeOrNR8&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Practica 2",
+                "tema": "Mr - Sql",
+                "tipo": "Practica"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1ejiV-te6E_qBhfCHNSkoNGyEOWiZ74gs&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Practica 3",
+                "tema": "Ar",
+                "tipo": "Practica"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=11Mu8HD0BmbegNh0EZYSQHG2ALQo-ECxl&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Practica 4",
+                "tema": "Ar - Sql",
+                "tipo": "Practica"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=14-dTwzeWSWrBGDyAsK_TG7y6JCbUPhX7&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Practica 5",
+                "tema": "Sql",
+                "tipo": "Practica"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=1mJGijlcqSvc5SjIqyKs3btEcu6F8M6aJ&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Practica 6",
+                "tema": "Df",
+                "tipo": "Practica"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=1A6SWCHa6ze2WIz35VGhAY1YcDRRPqjo0&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "10/7/2024",
+                "titulo": "Practica 7",
+                "tema": "2FN, 3FN, 4FN",
+                "tipo": "Practica"
+            }
+        ],
+        "juego": null
+    },
+    {
+        "id": "mat2",
+        "nombre": "Matematica 2",
+        "cargaHoraria": 4,
+        "programa": "https://docs.google.com/viewer?srcid=null&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+        "links": null,
+        "observacion": null,
+        "videos": [],
+        "apuntesteoricos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=133y5QjHSjAlnQOHUcbJyXO7Aq8OW6s95&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Matrices 1",
+                "tema": "Concepto de matrices, propiedades",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 1,
+                "ejercicios": "1-?"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=16-5o2U3fbrvnT96qOfjWrRKSGsLw2Jre&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Matrices 2",
+                "tema": "Producto de matrices",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 1,
+                "ejercicios": "?-??"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1RoieM7qOJkSNwpv6Xv-pPZ2mnC9iZWOc&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "22/8/2023",
+                "titulo": "Matrices 3",
+                "tema": "Matrices Inversas",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 1,
+                "ejercicios": "??-???"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1dcBryEvhkg_qNe0a4Xi_PaTLxsD38iFD&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "22/8/2023",
+                "titulo": "Matrices 4",
+                "tema": "Determinantes",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": "1",
+                "ejercicios": "??-???"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1k5nKvMQScDxE8SCt9YrJXE2mVD-d5rm0&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "05/9/2023",
+                "titulo": "Sistema de ecuaciones",
+                "tema": "Sistema de ecuaciones",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": "2",
+                "ejercicios": "??-???"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=1wKJ9aVvyzCbchlCQwx0eeiQzwMXrMKhp&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/10/2023",
+                "titulo": "Grupos",
+                "tema": "Grupos",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": "3",
+                "ejercicios": "??-???"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=1YIBBQvd5xfBA585lzNEsRSn8MT-gY6zx&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/10/2023",
+                "titulo": "Espacios Vectoriales",
+                "tema": "Espacio vectoriales",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": "4",
+                "ejercicios": "??-???"
+            },
+            {
+                "indice": 8,
+                "src": "https://docs.google.com/viewer?srcid=1BSP3nUI1KLaMcRgZ7_pS626WaaV4pyFh&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/10/2023",
+                "titulo": "Divisibilidad en enteros",
+                "tema": "Divisibilidad en enteros",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": "3",
+                "ejercicios": "??-???"
+            }
+        ],
+        "apuntespracticos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1RjjxT1ue2Aqs-QQrgnlgNIdlyUI8-9b_&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "TP 1",
+                "tema": "Matrices",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1MdZnNJPs8U-9Ks4uHSOR1x0JScwxxSEZ&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "5/9/2023",
+                "titulo": "TP 2",
+                "tema": "Sistema de ecuaciones Lineales",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=17Xru-IvyzE8G-vhyFJM-woxmACqhrljS&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/10/2023",
+                "titulo": "TP 3",
+                "tema": "Grupo",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1TXqphH8QIUO7GzFg-zbhOr26I0HmyK9t&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/10/2023",
+                "titulo": "TP 4",
+                "tema": "Espacio vectorial",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1NEhm_oVEI5ONvSqBJMVZeRVFNPS1SRcr&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "1/10/2023",
+                "titulo": "TP 5",
+                "tema": "Divisibilidad en enteros",
+                "tipo": "Practico"
+            }
+        ],
+        "juego": null
+    },
+    {
+        "id": "so",
+        "nombre": "Sistemas Operativos",
+        "cargaHoraria": 6,
+        "programa": "https://docs.google.com/viewer?srcid=null&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+        "links": "",
+        "observacion": "",
+        "videos": [
+            {
+                "indice": 1,
+                "src": "https://www.youtube.com/embed/Gz5KVCGndXw?list=PLA6U-4x2PwVZDJ57VFEk4_i4xSHIFaNcC",
+                "fecha": "28/8/2023",
+                "titulo": "Introduccion 1",
+                "tema": "Introduccion 1"
+            },
+            {
+                "indice": 2,
+                "src": "https://www.youtube.com/embed/WQ5PeRt8caM?list=PLA6U-4x2PwVZDJ57VFEk4_i4xSHIFaNcC",
+                "fecha": "28/8/2023",
+                "titulo": "Introduccion 2",
+                "tema": "Introduccion 2"
+            },
+            {
+                "indice": 3,
+                "src": "https://www.youtube.com/embed/Z5CDSY0km5Q?list=PLA6U-4x2PwVZDJ57VFEk4_i4xSHIFaNcC",
+                "fecha": "28/8/2023",
+                "titulo": "Procesos 1",
+                "tema": "Procesos 1"
+            },
+            {
+                "indice": 4,
+                "src": "https://www.youtube.com/embed/TrkvA4FWrAY?list=PLA6U-4x2PwVZDJ57VFEk4_i4xSHIFaNcC",
+                "fecha": "28/8/2023",
+                "titulo": "Procesos 2",
+                "tema": "Procesos 2"
+            },
+            {
+                "indice": 5,
+                "src": "https://www.youtube.com/embed/4JKOiJJ8UJc?list=PLA6U-4x2PwVZDJ57VFEk4_i4xSHIFaNcC",
+                "fecha": "28/8/2023",
+                "titulo": "Threads",
+                "tema": "Threads"
+            },
+            {
+                "indice": 6,
+                "src": "https://www.youtube.com/embed/bt6w757FJMk?list=PLA6U-4x2PwVZDJ57VFEk4_i4xSHIFaNcC",
+                "fecha": "28/8/2023",
+                "titulo": "Practica IRQ Handlers",
+                "tema": "Practica IRQ Handlers"
+            },
+            {
+                "indice": 7,
+                "src": "https://www.youtube.com/embed/VAAdrLlXq7c?list=PLA6U-4x2PwVZDJ57VFEk4_i4xSHIFaNcC",
+                "fecha": "28/8/2023",
+                "titulo": "CPU Scheduleres 1",
+                "tema": "CPU Schedulers 1"
+            },
+            {
+                "indice": 8,
+                "src": "https://www.youtube.com/embed/KW7lLSSXaUM?list=PLA6U-4x2PwVZDJ57VFEk4_i4xSHIFaNcC",
+                "fecha": "28/8/2023",
+                "titulo": "CPU Schedulers 2",
+                "tema": "CPU Schedulers 2"
+            },
+            {
+                "indice": 9,
+                "src": "https://www.youtube.com/embed/CNcX30rYtl8?list=PLA6U-4x2PwVZDJ57VFEk4_i4xSHIFaNcC",
+                "fecha": "28/8/2023",
+                "titulo": "Schedulers 3",
+                "tema": "Grafico de GANTT"
+            },
+            {
+                "indice": 10,
+                "src": "https://www.youtube.com/embed/ecksZI3QAqk?list=PLA6U-4x2PwVZDJ57VFEk4_i4xSHIFaNcC",
+                "fecha": "28/8/2023",
+                "titulo": "Practica 4",
+                "tema": "Practica 4"
+            },
+            {
+                "indice": 11,
+                "src": "https://www.youtube.com/embed/VIVRVqXC2x8?list=PLA6U-4x2PwVZDJ57VFEk4_i4xSHIFaNcC",
+                "fecha": "28/8/2023",
+                "titulo": "Memoria 1",
+                "tema": "Memoria - Sin Abstraccion"
+            },
+            {
+                "indice": 12,
+                "src": "https://www.youtube.com/embed/VVdlQeKPacY?list=PLA6U-4x2PwVZDJ57VFEk4_i4xSHIFaNcC",
+                "fecha": "28/8/2023",
+                "titulo": "Memoria 2",
+                "tema": "Memoria - Asignacion Continua"
+            },
+            {
+                "indice": 13,
+                "src": "https://www.youtube.com/embed/mxqaeL0PX18?list=PLA6U-4x2PwVZDJ57VFEk4_i4xSHIFaNcC",
+                "fecha": "28/8/2023",
+                "titulo": "Memoria 3",
+                "tema": "Memoria - Paginacion"
+            },
+            {
+                "indice": 14,
+                "src": "https://www.youtube.com/embed/oDP54QuE7P4?list=PLA6U-4x2PwVZDJ57VFEk4_i4xSHIFaNcC",
+                "fecha": "28/8/2023",
+                "titulo": "Practica - Ejercicios",
+                "tema": "Paginacion: Direccionamiento"
+            },
+            {
+                "indice": 15,
+                "src": "https://www.youtube.com/embed/ItoML6qsL7k?list=PLA6U-4x2PwVZDJ57VFEk4_i4xSHIFaNcC",
+                "fecha": "28/8/2023",
+                "titulo": "Practica 5",
+                "tema": "Practica 5"
+            },
+            {
+                "indice": 16,
+                "src": "https://www.youtube.com/embed/1294Rh6KpG4?list=PLA6U-4x2PwVZDJ57VFEk4_i4xSHIFaNcC",
+                "fecha": "28/8/2023",
+                "titulo": "Memoria 4",
+                "tema": "Memoria - Paginacion Bajo Demanda"
+            }
+        ],
+        "apuntesteoricos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=16MARbSXvArV3yC_byNOseeHm9L5AN06y&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "28/8/2023",
+                "titulo": "Clase 1",
+                "tema": "Introduccion de Sistemas Operativso",
+                "tipo": "Teorico",
+                "correspondencia": [
+                    1,
+                    2
+                ],
+                "tp": 2,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1W2Yp1L8OU4a5Ek8YR8jjZjSigwG8qobc&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "28/8/2023",
+                "titulo": "Clase 2-1",
+                "tema": "Procesos",
+                "tipo": "Teorico",
+                "correspondencia": [
+                    3,
+                    4
+                ],
+                "tp": 2,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1Ym1wUJwrJxT27xazChyD3ywqBhzzI17I&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "28/8/2023",
+                "titulo": "Clase 2-2",
+                "tema": "Threads",
+                "tipo": "Teorico",
+                "correspondencia": 5,
+                "tp": 2,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1qmw3CepJMZc5UrVuKWqE9Cf0i42qQvj-&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "28/8/2023",
+                "titulo": "Clase 3",
+                "tema": "Scheduling",
+                "tipo": "Teorico",
+                "correspondencia": [
+                    7,
+                    8,
+                    9
+                ],
+                "tp": 3,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=14UpeTSiTiALtvgrtdMAYY1_VEc-BmYFL&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "28/8/2023",
+                "titulo": "Clase 4",
+                "tema": "Memoria",
+                "tipo": "Teorico",
+                "correspondencia": [
+                    11,
+                    12
+                ],
+                "tp": 4,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=161UYSXSqQvQ3EngPBpzZVgKkYO-UJFhF&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "28/8/2023",
+                "titulo": "Clase 5",
+                "tema": "Paginacion",
+                "tipo": "Teorico",
+                "correspondencia": 13,
+                "tp": 4,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=13k-kt-t_-671_PCtF49NVK1rj0t_g30X&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "28/8/2023",
+                "titulo": "Clase 6",
+                "tema": "Memoria Virtual",
+                "tipo": "Teorico",
+                "correspondencia": 16,
+                "tp": 5,
+                "ejercicios": "Todos"
+            }
+        ],
+        "apuntespracticos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1XwKhMHqZIodLQ_vQoNMlubPLAl5vmtxz&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "28/8/2023",
+                "titulo": "Practica1",
+                "tema": "Introduccion de Sistemas Operativso",
+                "tipo": "Practica"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1ZpNltKWLXpTVfwrlt3avPMB1ZicpetTh&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "28/8/2023",
+                "titulo": "Practica 2",
+                "tema": "Procesos",
+                "tipo": "Practica"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=17TSMXSkHBTnoZFmWpIsKfvmLYydeRoq7&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "28/8/2023",
+                "titulo": "Practica 3",
+                "tema": "Scheduling",
+                "tipo": "Practica"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=155MbB1kn0IJ2esQxnWYZ9_kyywq0pJmn&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "28/8/2023",
+                "titulo": "Practica 4",
+                "tema": "Memoria",
+                "tipo": "Practica"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1iJ8g4tbU-5Hn1-vIthbdHgSMqagVgBPC&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "28/8/2023",
+                "titulo": "Practica 5",
+                "tema": "Paginacion",
+                "tipo": "Practica"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=168uSjA9WmJl8pgSwXMeduvKm1oiQzZ3M&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "28/8/2023",
+                "titulo": "Practica 6",
+                "tema": "Memoria Virtual",
+                "tipo": "Practica"
+            }
+        ],
+        "juego": null
+    },
+    {
+        "id": "progconcu",
+        "nombre": "Programacion Concurrente",
+        "cargaHoraria": 4,
+        "programa": "https://docs.google.com/viewer?srcid=null&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+        "links": "",
+        "observacion": "",
+        "videos": [
+            {
+                "indice": 1,
+                "src": "https://www.youtube.com/embed/dZAV1NZYSio",
+                "fecha": "15/8/2023",
+                "titulo": "Clase 1",
+                "tema": "Introduccion"
+            },
+            {
+                "indice": 2,
+                "src": "https://www.youtube.com/embed/Z0DN-G-1k3I",
+                "fecha": "15/8/2023",
+                "titulo": "Clase 2",
+                "tema": "Teoricas Trazas, Exclusion Mutua"
+            },
+            {
+                "indice": 3,
+                "src": "https://www.youtube.com/embed/Zn62jF4h31w",
+                "fecha": "15/8/2023",
+                "titulo": "Clase 3",
+                "tema": "Practica Trazas"
+            },
+            {
+                "indice": 4,
+                "src": "https://www.youtube.com/embed/_cRBaYRuZe4",
+                "fecha": "15/8/2023",
+                "titulo": "Clase 4",
+                "tema": "Teoricas Acciones Atomicas"
+            },
+            {
+                "indice": 5,
+                "src": "https://www.youtube.com/embed/YT-YZNXuDPM",
+                "fecha": "15/8/2023",
+                "titulo": "Clase 5",
+                "tema": "Practica Acciones Atomicas"
+            },
+            {
+                "indice": 6,
+                "src": "https://www.youtube.com/embed/Oirh1mRCA2I",
+                "fecha": "15/8/2023",
+                "titulo": "Clase 6",
+                "tema": "Teorica semaforos 1"
+            },
+            {
+                "indice": 7,
+                "src": "https://www.youtube.com/embed/wHjF1loE464",
+                "fecha": "15/8/2023",
+                "titulo": "Clase 7",
+                "tema": "Practica semaforos 1"
+            },
+            {
+                "indice": 8,
+                "src": "https://www.youtube.com/embed/R8Sl82XPcIQ",
+                "fecha": "15/8/2023",
+                "titulo": "Clase 8",
+                "tema": "Teorica semaforos 2"
+            },
+            {
+                "indice": 9,
+                "src": "https://www.youtube.com/embed/jkMk364jCi8",
+                "fecha": "15/8/2023",
+                "titulo": "Clase 9",
+                "tema": "Practica Semaforos 2"
+            },
+            {
+                "indice": 10,
+                "src": "https://www.youtube.com/embed/9RAeB5otuss",
+                "fecha": "15/8/2023",
+                "titulo": "Clase 10",
+                "tema": "Consultas 1 Semaforos"
+            },
+            {
+                "indice": 11,
+                "src": "https://www.youtube.com/embed/HBLqoosi8ek",
+                "fecha": "15/8/2023",
+                "titulo": "Clase 11",
+                "tema": "Consultas 2 Semaforos"
+            },
+            {
+                "indice": 12,
+                "src": "https://www.youtube.com/embed/2JHcG0Fx6n4",
+                "fecha": "15/8/2023",
+                "titulo": "Clase 12",
+                "tema": "Teoria de Monitores"
+            },
+            {
+                "indice": 13,
+                "src": "https://www.youtube.com/embed/Bqq01o2wf0I",
+                "fecha": "15/8/2023",
+                "titulo": "Clase 13",
+                "tema": "Practica de Monitores"
+            },
+            {
+                "indice": 14,
+                "src": "https://www.youtube.com/embed/13c26lC6uCU",
+                "fecha": "15/8/2023",
+                "titulo": "Clase 14",
+                "tema": "Teoria de Mensajes"
+            },
+            {
+                "indice": 15,
+                "src": "https://www.youtube.com/embed/crpcsqGzUVU",
+                "fecha": "15/8/2023",
+                "titulo": "Clase 15",
+                "tema": "Practica Mensajes"
+            },
+            {
+                "indice": 16,
+                "src": "https://www.youtube.com/embed/ItWhG1EKYy0",
+                "fecha": "15/8/2023",
+                "titulo": "Clase 16",
+                "tema": "+ Practica Mensajes"
+            },
+            {
+                "indice": 17,
+                "src": "https://www.youtube.com/embed/MbVwSvURP3Q",
+                "fecha": "15/8/2023",
+                "titulo": "Clase 17",
+                "tema": "Cierre de la Materia"
+            }
+        ],
+        "apuntesteoricos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1WfiaYfkrN1zwWxZ8dLx4elB3mUGLhNUz&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "PC.01",
+                "tema": "Introduccion",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 1,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1nGWO1QvUsAQ4KLtO2d1gAyjEmo9hbDVq&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "PC.02",
+                "tema": "Exclusion Mutua",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 2,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1bkca0uIs7SV_qzImtTzxidBOsrLwIW1E&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "PC.03",
+                "tema": "Acciones Atomicas",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 3,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1X7j9-h-VUry4dLqt4kl6vNLvAkf9uLVO&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "PC.04",
+                "tema": "Semaforos",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 4,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=12_u65RGFS2_2G_buBW8RpWnOaJOqgqU8&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "PC.05",
+                "tema": "Esquema con semaforos",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 5,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=1cD3UxTxjkKSLzBdKBoEYsG1tmQ_8ZDpm&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "PC.06",
+                "tema": "Monitores",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 6,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=1S-Lknei4HDC93X_Tu6VxTxSeiMhaFQdR&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "PC.07",
+                "tema": "Mensajes",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 7,
+                "ejercicios": "Todos"
+            }
+        ],
+        "apuntespracticos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1KT65XBd0B9n_2BrFYbYSnre8w_NlfXBk&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Practica 1",
+                "tema": "Trazas",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=11Eu9bZmDLyQQ9DsiLbq8XbpnDwtCOCHP&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Practica 2",
+                "tema": "Mutex",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=11cAc4HY8huQHGWWdhTOkiiX8Io0PsG_Y&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Practica 3",
+                "tema": "Atomicidad",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1vRMgijbAcRdJsjBRR96skTt9NDewQM81&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Practica 4",
+                "tema": "Semaforos 1",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1fdFjfgEVQx3XBam82s1PKcHAmKQnzfCy&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Practica 5",
+                "tema": "Semaforos 2",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=1a5zF8xiHhTGPWLWXtn-IYCqL25AWTbXA&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Practica 6",
+                "tema": "Monitores",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=1z-a525r4pq7EWZL6PJ-7t2iAlBPgKDju&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "15/8/2023",
+                "titulo": "Practica 7",
+                "tema": "Mensajes",
+                "tipo": "Practico"
+            }
+        ],
+        "juego": null
+    },
+    {
+        "id": "progfunc",
+        "nombre": "Programacion Funcional",
+        "cargaHoraria": 4,
+        "programa": "https://docs.google.com/viewer?srcid=null&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+        "links": "",
+        "observacion": "",
+        "videos": [
+            {
+                "indice": 1,
+                "src": "https://www.youtube.com/embed/CFuvy-w9o6I",
+                "fecha": "6/7/2024",
+                "titulo": "1 Clase Teorica Funcional",
+                "tema": "Modelo Funcional, Alto Orden"
+            },
+            {
+                "indice": 2,
+                "src": "https://www.youtube.com/embed/bIx0Zi8YjMY",
+                "fecha": "6/7/2024",
+                "titulo": "2 Clase Teorica Funcional",
+                "tema": "Sistema de Tipos"
+            },
+            {
+                "indice": 3,
+                "src": "https://www.youtube.com/embed/gthqrFWG6oA",
+                "fecha": "6/7/2024",
+                "titulo": "3 Clase Teorica Funcional",
+                "tema": "Currificacion"
+            },
+            {
+                "indice": 4,
+                "src": "https://www.youtube.com/embed/u_Q1dP2g5FQ",
+                "fecha": "6/7/2024",
+                "titulo": "4 Clase Teorica Funcional",
+                "tema": "Reduccion"
+            },
+            {
+                "indice": 5,
+                "src": "https://www.youtube.com/embed/d-DocFmRdQc",
+                "fecha": "6/7/2024",
+                "titulo": "5 Clase Teorica Funcional",
+                "tema": "Tipos  Algebraicos"
+            },
+            {
+                "indice": 6,
+                "src": "https://www.youtube.com/embed/vrae0isqwNM",
+                "fecha": "6/7/2024",
+                "titulo": "6 Clase Teorica Funcional",
+                "tema": "Propiedades y Demostraciones"
+            },
+            {
+                "indice": 7,
+                "src": "https://www.youtube.com/embed/9piJQAaWCpk",
+                "fecha": "6/7/2024",
+                "titulo": "7 Clase Teorica Funcional",
+                "tema": "Induccion y recursion 1"
+            },
+            {
+                "indice": 8,
+                "src": "https://www.youtube.com/embed/b2gKGcvq_bo",
+                "fecha": "6/7/2024",
+                "titulo": "8 Clase Teorica Funcional",
+                "tema": "Induccion y recursion 2"
+            },
+            {
+                "indice": 9,
+                "src": "https://www.youtube.com/embed/9CIqSAVran8",
+                "fecha": "6/7/2024",
+                "titulo": "9 Clase Teorica Funcional",
+                "tema": "Induccion y recursion 3"
+            },
+            {
+                "indice": 10,
+                "src": "https://www.youtube.com/embed/B6D2rkBw1uo",
+                "fecha": "6/7/2024",
+                "titulo": "10 Clase Teorica Funcional",
+                "tema": "Induccion y recursion 4"
+            },
+            {
+                "indice": 11,
+                "src": "https://www.youtube.com/embed/OrrzkDNzVW8",
+                "fecha": "6/7/2024",
+                "titulo": "11 Clase Teorica Funcional",
+                "tema": "Esquema de funciones 1"
+            },
+            {
+                "indice": 12,
+                "src": "https://www.youtube.com/embed/L3gU250guP4",
+                "fecha": "6/7/2024",
+                "titulo": "12 Clase Teorica Funcional",
+                "tema": "Esquema de funciones 2"
+            },
+            {
+                "indice": 13,
+                "src": "https://www.youtube.com/embed/FaLO_tlI4oI",
+                "fecha": "6/7/2024",
+                "titulo": "13 Clase Teorica Funcional",
+                "tema": "Monadas"
+            },
+            {
+                "indice": 14,
+                "src": "https://www.youtube.com/embed/28QX5EUabDQ",
+                "fecha": "6/7/2024",
+                "titulo": "14 Clase Teorica Funcional",
+                "tema": "Calculo Lambda"
+            }
+        ],
+        "apuntesteoricos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1A-qaTDJZ45bVmtMKRCPIohNIESe7MPnA&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase teorico 1",
+                "tema": "Modelo Funcional",
+                "tipo": "Teorico",
+                "correspondencia": 1,
+                "tp": 1,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=127QqqKiAZXCK7toxdoBpsD0pRCyGRPNT&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase teorico 2",
+                "tema": "Sistema de tipos",
+                "tipo": "Teorico",
+                "correspondencia": 2,
+                "tp": 2,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1AjEVjXJU659JBqlVqlQO9s6cKbeF9df3&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase teorico 3",
+                "tema": "Currificacion",
+                "tipo": "Teorico",
+                "correspondencia": 3,
+                "tp": 3,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=136UecSUZsJ9d_APqtDe_yCd9sshys155&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase teorico 4",
+                "tema": "Reduccion",
+                "tipo": "Teorico",
+                "correspondencia": 4,
+                "tp": 4,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=10YkN3O_NeohE6CTMj1aVy6exUr0ChYYZ&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase teorico 5",
+                "tema": "Tipos Algebraicos",
+                "tipo": "Teorico",
+                "correspondencia": 5,
+                "tp": 5,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=103Yu6Hq44FbwJLLYax7y0O_AOg6GPoT5&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase teorico 6",
+                "tema": "Propiedades y Demostraciones",
+                "tipo": "Teorico",
+                "correspondencia": 6,
+                "tp": 6,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=14mhHYFVd2JhM7l6FfmdyoYQKSuUHTNM8&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase teorico 7",
+                "tema": "Induccion y recursion 1",
+                "tipo": "Teorico",
+                "correspondencia": 7,
+                "tp": 7,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 8,
+                "src": "https://docs.google.com/viewer?srcid=1_VPvJZqUVmdagYxGyPugNWXFa1NXnI2T&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase teorico 8",
+                "tema": "Induccion y recursion 2",
+                "tipo": "Teorico",
+                "correspondencia": 8,
+                "tp": 8,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 9,
+                "src": "https://docs.google.com/viewer?srcid=1jYElgkj2zwwXMKwhNQVbkvGvBPCmPkr0&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase teorico 9",
+                "tema": "Induccion y recursion 3",
+                "tipo": "Teorico",
+                "correspondencia": 9,
+                "tp": 9,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 10,
+                "src": "https://docs.google.com/viewer?srcid=1k-RUw2_Eg2KGD78F7KiStJ5GjRHYbfBv&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase teorico 10",
+                "tema": "Induccion y recursion 4",
+                "tipo": "Teorico",
+                "correspondencia": 10,
+                "tp": 10,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 11,
+                "src": "https://docs.google.com/viewer?srcid=11PjgXCrzYMaRDhOMc0KRuuFNsCbSv-6u&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase teorico 11",
+                "tema": "Esquema de funciones 1",
+                "tipo": "Teorico",
+                "correspondencia": 11,
+                "tp": 11,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 12,
+                "src": "https://docs.google.com/viewer?srcid=1pr-JaReKmYe6HuVKgIFYaoe9WWp6zQ5V&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase teorico 12",
+                "tema": "Esquema de funciones 2",
+                "tipo": "Teorico",
+                "correspondencia": 12,
+                "tp": 12,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 13,
+                "src": "https://docs.google.com/viewer?srcid=19W37tbHxTJXFkt82cwki2HiSXmB_IqTk&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase teorico 13",
+                "tema": "Monadas",
+                "tipo": "Teorico",
+                "correspondencia": 13,
+                "tp": 13,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 14,
+                "src": "https://docs.google.com/viewer?srcid=1FHyZnsMKyYR1U2ygimipA0hIOFtWwTsx&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase teorico 14",
+                "tema": "Calculo Lambda",
+                "tipo": "Teorico",
+                "correspondencia": 14,
+                "tp": 14,
+                "ejercicios": "Todos"
+            }
+        ],
+        "apuntespracticos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1F5s1YnFpUCDPJ9SZo6mPgYqZPZWaDZZc&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase practica 1",
+                "tema": "Modelo Funcional",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1b34qBVRKkP6xQMl4r2hK56elKhWcc1Vr&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase practica 2",
+                "tema": "Sistema de tipos",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1OxGW9-44k4AgCOwv1DGzkYPSaGu4-vss&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase practica 3",
+                "tema": "Currificacion",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1uaCdh7UMUko8UYWblIqC8c21LTGXrgJr&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase practica 4",
+                "tema": "Reduccion",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=15fArKEg5AMpj0SfLejfwcRMpgo7-FB0V&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase practica 5",
+                "tema": "Tipos Algebraicos",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=1fL5-x-6InHULb5nWNXBWNw_OZkfcivAU&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase practica 6",
+                "tema": "Propiedades y Demostraciones",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=1d5HZ8cm4TIINLhie0sPllXG8u0OFJ7Kh&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase practica 7",
+                "tema": "Induccion y recursion 1",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 8,
+                "src": "https://docs.google.com/viewer?srcid=16cwGBctit_f7Fpre1bGsK_9IZ46RSIG5&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase practica 8",
+                "tema": "Induccion y recursion 2",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 9,
+                "src": "https://docs.google.com/viewer?srcid=1NfOVzY7qNt6n_YdJeTgxXxMUoZA_wjhJ&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase practica 9",
+                "tema": "Induccion y recursion 3",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 10,
+                "src": "https://docs.google.com/viewer?srcid=1WYs8V2H6QsY95kjMrYAGNeLMv9xcdJ4Y&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase practica 10",
+                "tema": "Induccion y recursion 4",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 11,
+                "src": "https://docs.google.com/viewer?srcid=13UluPhwmSUdZBLGfw2IPAcYr3DZN-owK&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase practica 11",
+                "tema": "Esquema de funciones 1",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 12,
+                "src": "https://docs.google.com/viewer?srcid=1GNG2xrJdd0BIMuJUSo39o_GMjMSLWiB-&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase practica 12",
+                "tema": "Esquema de funciones 2",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 13,
+                "src": "https://docs.google.com/viewer?srcid=1t3FabRPQw-hcXWp0GwEW0Km3tYY1N3Xy&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase practica 13",
+                "tema": "Monadas",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 14,
+                "src": "https://docs.google.com/viewer?srcid=1WNPsTCLVlul04ngGfbBR3ym3mvSfiKzH&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "6/7/2024",
+                "titulo": "Clase practica 14",
+                "tema": "Calculo Lambda",
+                "tipo": "Practico"
+            }
+        ],
+        "juego": null
+    },
+    {
+        "id": "log",
+        "nombre": "Logica y Programacion",
+        "cargaHoraria": 4,
+        "programa": "https://docs.google.com/viewer?srcid=&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+        "links": "",
+        "videos": [],
+        "apuntesteoricos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=19rbIW5_gERLN7u2OhUyLpHy9szFgZiGz&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "16/8/2024",
+                "titulo": "Teorica 1",
+                "tema": "Logica Proposicional y Forma Normal Coguntiva",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": "1",
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1pBHT7aAU00qrvwpPuwTH963mJTMaBpSh&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "16/8/2024",
+                "titulo": "Teorica 2",
+                "tema": "Deduccion Natural",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": "2",
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1UTv35tOZjSvSpBlDPNncTKN6aRDo1cqP&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "16/8/2024",
+                "titulo": "Teorica 3",
+                "tema": "Correccion y Completitud PROP",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": "2",
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1o3n_JUrN34eYDDqaacCeGXMdXoGYJX6E&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "13/9/2024",
+                "titulo": "Teorica 4",
+                "tema": "Logica de Predicados",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": "3",
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1bgOg_P2FYSRD3Yq4hEsl2G62kw2wjdp3&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "4/10/2024",
+                "titulo": "Teorica 5",
+                "tema": "Logica de Predicados correccion y Completitud",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": "4",
+                "ejercicios": "Todos"
+            }
+        ],
+        "apuntespracticos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1Pid1y5-A8_ru4HjiZvgsyVhjjg5Hdwyi&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "16/8/2024",
+                "titulo": "Practica 1",
+                "tema": "Logica Proposicional, sintxis y semantica",
+                "tipo": "Practica"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1I60cuNgeDm3SMcuvEvd8UuiVugzuF2RY&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "16/8/2024",
+                "titulo": "Practica 2",
+                "tema": "Deduccion Natural, Correccion y Completitud para PROP",
+                "tipo": "Practica"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1i7_0VStdjd6tmC_iqWqRqz-YEpq9_vjn&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "13/9/2024",
+                "titulo": "Practica 3",
+                "tema": "Logica de Predicados",
+                "tipo": "Practica"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1Jx4YoZrXDT4JephSlaUeDT15lF5yuvBd&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "4/10/2024",
+                "titulo": "Practica 4",
+                "tema": "Logica de Predicados Correccion y Completitud",
+                "tipo": "Practica"
+            }
+        ],
+        "juego": null
+    },
+    {
+        "id": "pobj2",
+        "nombre": "Programacion Orientada a Objetos 2",
+        "cargaHoraria": 6,
+        "programa": "https://docs.google.com/viewer?srcid=&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+        "links": "<a href=\"https://poo2unq.github.io/site/\" target = \"_blanck\">Sitie</a>",
+        "observacion": "",
+        "videos": [
+            {
+                "indice": 1,
+                "src": "https://www.youtube.com/embed/oYSLwORU0ZM",
+                "fecha": "año 2020",
+                "titulo": "Teoria UML",
+                "tema": "UML"
+            },
+            {
+                "indice": 2,
+                "src": "https://www.youtube.com/embed/3ITG-OFhThc",
+                "fecha": "2020",
+                "titulo": "Startup Java Eclipse GIT",
+                "tema": "Inicializar workspace"
+            },
+            {
+                "indice": 3,
+                "src": "https://www.youtube.com/embed/C-WgNtdGsR4",
+                "fecha": "2020",
+                "titulo": "GIT",
+                "tema": "GIT consola"
+            },
+            {
+                "indice": 4,
+                "src": "https://www.youtube.com/embed/XWqH1TvMhTc",
+                "fecha": "2020",
+                "titulo": "Interfaces Java",
+                "tema": "Abstractas vs Interfaces"
+            },
+            {
+                "indice": 5,
+                "src": "https://www.youtube.com/embed/k_btrOB7Arg",
+                "fecha": "30/9/2024",
+                "titulo": "Test Doubles",
+                "tema": "Repaso TDD, Test y Test"
+            },
+            {
+                "indice": 6,
+                "src": "https://www.youtube.com/embed/Tys62sak1Jk",
+                "fecha": "30/9/2024",
+                "titulo": "Teorica Mockito",
+                "tema": "Mockito"
+            }
+        ],
+        "apuntesteoricos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1bvnk3E6KufZ2572dCeMQvLPUfYZyEd4v&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "20/8/2024",
+                "titulo": "Teorica 1",
+                "tema": "Repaso de Objetos 1 y Java",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": [
+                    1,
+                    2,
+                    3
+                ],
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=15DLZulqlX2waMYDWqj7oMNMyFaXDkTNT&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "7/9/2024",
+                "titulo": "Teorica 2",
+                "tema": "Pilares del Lenguaje Java",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": null,
+                "ejercicios": null
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=14fkZcHCsUeM0032anYfUjp2CeumTHZNm&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "7/9/2024",
+                "titulo": "Teorica 3",
+                "tema": "Contrato de interfaces",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": null,
+                "ejercicios": null
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=14fkZcHCsUeM0032anYfUjp2CeumTHZNm&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "7/9/2024",
+                "titulo": "Teorica 4",
+                "tema": "Ejemplo de interfaces",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": null,
+                "ejercicios": null
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1kZ21q7q0UiVzXY6FwTRFY7uUUi1Pk164&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "30/9/2024",
+                "titulo": "Teorico 5",
+                "tema": "Template Method y  Adapter",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 7,
+                "ejercicios": "Todos"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=11N7f5msmFhhQODNOFV4KYQgJbUYvruaX&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "30/9/2024",
+                "titulo": "Teorico 6",
+                "tema": "Enums",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 8,
+                "ejercicios": "1"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=1ykHUPfnjB6h5yYS4Xy2lV5GaMEAUoVYt&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "30/9/2024",
+                "titulo": "Teorico 7",
+                "tema": "Streams",
+                "tipo": "Teorico",
+                "correspondencia": null,
+                "tp": 8,
+                "ejercicios": "2"
+            },
+            {
+                "indice": 8,
+                "src": "https://docs.google.com/viewer?srcid=1lYatRlTCM8PCbjytp9ePQwGdgn59kVeE&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "30/9/2024",
+                "titulo": "Teorica 8",
+                "tema": "Test Doubles, Mockito",
+                "tipo": "Teorica",
+                "correspondencia": 6,
+                "tp": 9,
+                "ejercicios": "Todos"
+            }
+        ],
+        "apuntespracticos": [
+            {
+                "indice": 1,
+                "src": "https://docs.google.com/viewer?srcid=1l0MDQGyMH-h-BBt7T-W9U_AfqBgxjuBT&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "20/8/2024",
+                "titulo": "TP1",
+                "tema": "Repaso",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 2,
+                "src": "https://docs.google.com/viewer?srcid=1DgRvcd6OdkT1qyUi2TUHY-bqK95xrqHg&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "20/8/2024",
+                "titulo": "TP2",
+                "tema": "UML",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 3,
+                "src": "https://docs.google.com/viewer?srcid=1lbcKidtbPv1Y_6nO7FrndlmY_0myW4UV&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "20/8/2024",
+                "titulo": "TP3",
+                "tema": "Java primeros pasos",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 4,
+                "src": "https://docs.google.com/viewer?srcid=1CmXeiMtR5ZJADnszM2xdjgNRdELgM4p2&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "7/9/2024",
+                "titulo": "TP4",
+                "tema": "Java POO",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 5,
+                "src": "https://docs.google.com/viewer?srcid=1KDHLuzVwnQ3Fdj6YAaYYXtpEFFX87Jjc&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "7/9/2024",
+                "titulo": "TP5",
+                "tema": "Abstracta vs Interfaces",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 6,
+                "src": "https://docs.google.com/viewer?srcid=1-TeflJGseztbZaap4GdqiW3rCiGrWk5V&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "7/9/2024",
+                "titulo": "TP6",
+                "tema": "SOLID",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 7,
+                "src": "https://docs.google.com/viewer?srcid=1EyqldbnGgAimev5rXjEvHq4sYdchsuVd&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "30/9/2024",
+                "titulo": "TP7",
+                "tema": "Template Method y Adapter",
+                "tipo": "Practica"
+            },
+            {
+                "indice": 8,
+                "src": "https://docs.google.com/viewer?srcid=1ZMNKKxwlfDUrkzZB-Xk8T2vl4h4iZVQc&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "30/9/2024",
+                "titulo": "TP8",
+                "tema": "Streams y Enums",
+                "tipo": "Practico"
+            },
+            {
+                "indice": 9,
+                "src": "https://docs.google.com/viewer?srcid=1YFVpeEYVg7oyHSHBFwgdIU8P3bdVpnmp&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
+                "fecha": "30/9/2024",
+                "titulo": "TP9",
+                "tema": "Test Doubles,  Mockito",
+                "tipo": "Practica"
+            }
+        ],
+        "juego": [
+            {
+                "id": "jo2",
+                "indice": "Teoria",
+                "preguntas": [
+                    {
+                        "pregunta": "En un Strategy, siempre puedo eliminar directamente una subclase  sin mayores inconvenientes En la de State tambien",
+                        "respuesta": "Falso",
+                        "distractores": [
+                            "Verdadero",
+                            "No se"
+                        ]
+                    },
+                    {
+                        "pregunta": "En java, un lenguaje estaticamente tipado, cuando un objeto esta tipado como una interfaz, solo puedo enviarle los mensajes definidos alli y ualquier otro publico definido en su propia clase",
+                        "respuesta": "Falso",
+                        "distractores": [
+                            "Verdadero",
+                            "No se"
+                        ]
+                    },
+                    {
+                        "pregunta": "El principio Open-Closed establece:",
+                        "respuesta": "Se debe propiciar la extension del codigo sin requerimientos de modificaciones adicionales",
+                        "distractores": [
+                            "Una sublccase siempre puede ocupar el lugar de una superclase",
+                            "Toda superclase debe implementar una interfaz",
+                            "Ninguna de las anteriores"
+                        ]
+                    },
+                    {
+                        "pregunta": "Al usar test doubles, la lase a mockear es aquella que quiero testear (el SUT)",
+                        "respuesta": "Falso",
+                        "distractores": [
+                            "Verdadero"
+                        ]
+                    },
+                    {
+                        "pregunta": "¿Que patron de diseño permite intercambiar dinamicamente entre distintos algoritmos/formas de ejecutar una misma  operacion",
+                        "respuesta": "Strategy",
+                        "distractores": [
+                            "State",
+                            "Composety",
+                            "Observer",
+                            "Adapter",
+                            "Builder",
+                            "Object null"
+                        ]
+                    },
+                    {
+                        "pregunta": "En el patron State:",
+                        "respuesta": "Ninguna de las anteriores",
+                        "distractores": [
+                            "Que pregunta de mierda que tomaron",
+                            "Existe recursion algoritmica",
+                            "Existe recursion estrutural",
+                            "Existen las dos recursiones"
+                        ]
+                    },
+                    {
+                        "pregunta": "Una clase abstracta no puede contener constructores",
+                        "respuesta": "Falso",
+                        "distractores": [
+                            "Verdadero"
+                        ]
+                    },
+                    {
+                        "pregunta": "Un objeto puede estar tipado de diferentes maneras a lo largo de su ciclo de vida",
+                        "respuesta": "Verdadero",
+                        "distractores": [
+                            "Falso"
+                        ]
+                    },
+                    {
+                        "pregunta": "Cuando se tiene una jerarquia con una clase abstracta, siempre puedo eliminarla y cambiarla por una interfaz",
+                        "respuesta": "Falso",
+                        "distractores": [
+                            "Verdadero"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
