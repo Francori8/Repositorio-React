@@ -1,4 +1,4 @@
-export function ApunteTeorico ({apunte,setter}) {
+export function Apunte({apunte,setter}) {
    
     const handler = () => {
         
@@ -10,7 +10,7 @@ export function ApunteTeorico ({apunte,setter}) {
             <div className="tarjeta-encabezado">
                 <span>{apunte.indice} </span>
                 <time dateTime={apunte.fecha}>{apunte.fecha}</time>
-                <span>{apunte.tipo}</span>
+                <span>{apunte.tipo.at(0)}</span>
             </div>
                 
             <h3>{apunte.titulo} </h3>

@@ -24,3 +24,13 @@
 
     }
 }
+
+.active{
+    opacity: 0.3;
+    
+    &:hover{
+        transform: scale(100%);
+        opacity: 0.1;
+        cursor: default;
+    }
+}

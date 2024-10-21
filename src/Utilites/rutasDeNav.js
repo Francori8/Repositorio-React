@@ -2,23 +2,28 @@ const rutas =
     [
         {
             url: () => '/materias',
-            logo:"🏠"
+            logo:"🏠",
+            title:"Inicio"
         },
         {
             url:(id) => `/materiaVideos/${id}`,
-            logo:"▶"
+            logo:"▶",
+            title:"Videos"
         },
         {
             url:(id) => `/materiaApuntes/${id}`,
-            logo:"✍"
+            logo:"✍",
+            titlle:"Apuntes"
         },
         {
             url:(id) => `/materiaJuego/${id}`,
-            logo: "❔"
+            logo: "❔",
+            title:"Juego"
         },
         {
             url: (id) => `/materiaInfo/${id}`,
-            logo: "📄"
+            logo: "📄",
+            title:"Informacion"
         }
     ]
 
@@ -28,6 +33,6 @@ export const rutasDeNav = (id, pathName) => {
         return {url : ruta.url(id), logo:ruta.logo}
     })
     
-    return rutasConId.filter(ruta => ruta.url !== pathName)
+    return rutasConId
 }
 

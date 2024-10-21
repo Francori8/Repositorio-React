@@ -1,6 +1,6 @@
-import { Link } from "react-router-dom"
+import { Link, NavLink } from "react-router-dom"
 import { useParams , useLocation } from "react-router-dom"
-import {rutasDeNav} from "../../Utilites/rutasDeNav"
+import {rutasDeNav} from "../../Utilites/rutasDeNav.js"
 import './navBar.css'
 
 
@@ -16,7 +16,7 @@ export function NavBar(){
         <nav className="navegacion">
             {
                 rutasAMover.map((ruta, index) => (
-                    <Link className="btn-nav" key={index} to={ruta.url}>{ruta.logo}</Link>
+                    <NavLink className="btn-nav" title={ruta.title} key={index} to={ruta.url}>{ruta.logo}</NavLink>
                 ))
             }
          

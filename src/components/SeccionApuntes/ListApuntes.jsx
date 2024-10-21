@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react"
 import { useParams } from "react-router-dom"
 import { archivosPorId } from "../../Utilites/fetchs"
-import {ApuntePractico} from "./ApuntePractico.jsx"
-import {ApunteTeorico} from "./ApunteTeorico.jsx"
+import {Apunte} from "./Apunte.jsx"
+
 
 export function ListApuntes({setter}){
     const params =  useParams()
@@ -23,7 +23,7 @@ export function ListApuntes({setter}){
                     {
                         apuntesPractico.map(apunt => (
                             
-                            <ApuntePractico key={apunt.indice +"app"} apunte={apunt} setter={setterApuntePractico}></ApuntePractico>
+                            <Apunte key={apunt.indice +"app"} apunte={apunt} setter={setterApuntePractico}></Apunte>
                         
                         ))
                     }
@@ -31,7 +31,7 @@ export function ListApuntes({setter}){
                 <div>
                     {
                         apuntesTeorico.map(apunt => (
-                            <ApunteTeorico key={apunt.indice +"apt"} apunte={apunt} setter={settertApunteTeorico}></ApunteTeorico>
+                            <Apunte key={apunt.indice +"apt"} apunte={apunt} setter={settertApunteTeorico}></Apunte>
                         ))
                     }
                 </div>

@@ -25,15 +25,16 @@
     &>div{
         display: flex;
         flex-direction: column;
+        width: 300px;
         gap: 20px;
     }
 }
 
 .apunte{
     background-color: transparent;
-    padding: 4px 8px 8px 4px;
+    padding: 8px 16px 8px 16px;
     cursor: pointer;
-
+    
 
     &:hover{
         transition: all;
@@ -51,5 +52,5 @@
 
 .tarjeta-encabezado{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
