@@ -1676,7 +1676,7 @@
                 "fecha": "03/09/2022",
                 "titulo": "Bibliografia Optativa 1",
                 "tema": "Historia de las Universidad Argentinas Pablo Buchbinder",
-                "tipo": "BIbliografia Optativa"
+                "tipo": "Bibliografia Optativa"
             },
             {
                 "indice": 2,
@@ -1747,7 +1747,8 @@
                 "src": "https://docs.google.com/viewer?srcid=1KScLm6n4r_YbFsLuM_sVHUb_EbZ4CNKs&pid=explorer&efh=false&a=v&chrome=false&embedded=true",
                 "fecha": "17/09/2022",
                 "titulo": "Bibliografia Optativa 10",
-                "tema": "De zoologicos y carnavales"
+                "tema": "De zoologicos y carnavales",
+                "tipo": "Bibliografia Optativa"
             },
             {
                 "indice": 11,

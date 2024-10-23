@@ -1,0 +1,34 @@
+.info{
+    width: 80%;
+    border: 1px dashed gray;
+    padding: 8px;
+    text-align: left;
+}
+
+.item-info{
+    letter-spacing: 2px;
+    
+    text-decoration-line: underline;
+    
+    >span{
+        letter-spacing: normal;
+        
+       
+    }
+    
+}
+
+.programa{
+    width: 70%;
+    height: 500px;
+}
+
+a{
+    text-decoration: none;
+    color: gray;
+
+    &:hover{
+      
+        color: black;
+    }
+}

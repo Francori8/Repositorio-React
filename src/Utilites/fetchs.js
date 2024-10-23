@@ -35,16 +35,20 @@ export const juegosPorId = (id) => {
 
 export const infoPorId = (id) => {
     const materia = api.find((mat)=> mat.id == id)
+  
+   
     
-
+    const condicion = materia.programa.substring(37,41).startsWith("&pid") || materia.programa.substring(37,41).startsWith("null") 
+    const programaADevolver = condicion ? null : materia.programa
+    
     return{
         id:id,
         nombre: materia.nombre,
         cargaHoraria : materia.cargaHoraria,
         links : materia.links,
-        programa: materia.programa,
-        obserevacion: materia.observacion
-
+        programa: programaADevolver,
+        observacion: materia.observacion,
+       
     }
 }
 

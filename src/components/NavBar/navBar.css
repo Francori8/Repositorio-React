@@ -27,10 +27,10 @@
 
 .active{
     opacity: 0.3;
-    
+    cursor: default;
     &:hover{
         transform: scale(100%);
         opacity: 0.1;
-        cursor: default;
+        
     }
 }
