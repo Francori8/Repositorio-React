@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 
 export function TarjetaMateria({id, nombre}){{
-    const urlCambiada = `/materiaInfo/${id}`
+    const urlCambiada = `/materia/${id}`
     
     return(
         <>  

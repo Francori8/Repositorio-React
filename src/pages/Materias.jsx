@@ -2,7 +2,7 @@
 import {ContenedorMaterias} from "../components/Materias/ContenedorMaterias.jsx"
 import { Header } from "../components/Header/Header.jsx"
 
-export function Materia(){
+export function Materias(){
 
     return(
         <main className="main-materia">

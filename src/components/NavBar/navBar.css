@@ -9,7 +9,7 @@
 
 .btn-nav{
     width: 20px;
-    padding: 10px 20px;
+    padding: 15px 30px;
     border: 2px solid black;
     border-radius: 12px;
     display: flex;
@@ -17,11 +17,21 @@
     align-items: center;
     background-color: rgb(181, 106, 252);
     color: whitesmoke;
+    cursor: pointer;
+    font-size: larger;
+    font-weight: 800;
     
+
     &:hover{
         transform: scale(105%);
         opacity: 0.8;
 
+    }
+
+    &:disabled{
+        opacity: 0.2;
+        cursor: default;
+        transform: scale(100%);
     }
 }
 

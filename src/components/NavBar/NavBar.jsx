@@ -1,22 +1,22 @@
 import { Link, NavLink } from "react-router-dom"
 import { useParams , useLocation } from "react-router-dom"
 import {rutasDeNav} from "../../Utilites/rutasDeNav.js"
+import {secciones} from '../../Utilites/secciones.jsx'
+import { ButtonNavegacion } from "./ButtonNavegacion.jsx"
 import './navBar.css'
 
 
-export function NavBar(){
-    const param = useParams()
-    const  id = param.id
-    
-    const ruta = useLocation().pathname
-    
-    const rutasAMover = rutasDeNav(id,ruta)
-    
+export function NavBar({setterSeccion , sec}){
+   
+
     return (
         <nav className="navegacion">
+            <Link className="btn-nav" title="Inicio" to={'/materias'}>🏠</Link>
+
             {
-                rutasAMover.map((ruta, index) => (
-                    <NavLink className="btn-nav" title={ruta.title} key={index} to={ruta.url}>{ruta.logo}</NavLink>
+                Object.values(secciones).map((secc, ind) => (
+                    <ButtonNavegacion seccion={secc} key={ind} setter={setterSeccion} seccionActual={sec}/>
+                    
                 ))
             }
          
